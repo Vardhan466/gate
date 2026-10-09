@@ -1,0 +1,2002 @@
+Part 1: First Set of 200 Questions (General Practice)
+1. A man rows a boat 18\text{ km} downstream in 4\text{ hours}. What is his downstream speed?
+   * A) 3.5\text{ km/h}
+   * B) 4.5\text{ km/h}
+   * C) 5\text{ km/h}
+   * D) 4\text{ km/h}
+2. A boat covers 24\text{ km} upstream in 6\text{ hours}. Find its upstream speed.
+   * A) 3\text{ km/h}
+   * B) 4\text{ km/h}
+   * C) 5\text{ km/h}
+   * D) 6\text{ km/h}
+3. The speed of a boat in still water is 8\text{ km/h} and the speed of the stream is 2\text{ km/h}. Find the downstream speed.
+   * A) 6\text{ km/h}
+   * B) 10\text{ km/h}
+   * C) 12\text{ km/h}
+   * D) 16\text{ km/h}
+4. The speed of a boat in still water is 12\text{ km/h} and the speed of the stream is 3\text{ km/h}. Find the upstream speed.
+   * A) 15\text{ km/h}
+   * B) 9\text{ km/h}
+   * C) 4\text{ km/h}
+   * D) 36\text{ km/h}
+5. If the downstream speed of a boat is 14\text{ km/h} and the upstream speed is 8\text{ km/h}, find the speed of the boat in still water.
+   * A) 10\text{ km/h}
+   * B) 11\text{ km/h}
+   * C) 12\text{ km/h}
+   * D) 13\text{ km/h}
+6. If the downstream speed of a boat is 16\text{ km/h} and the upstream speed is 10\text{ km/h}, find the speed of the stream.
+   * A) 2\text{ km/h}
+   * B) 3\text{ km/h}
+   * C) 4\text{ km/h}
+   * D) 6\text{ km/h}
+7. A boat can row downstream at 20\text{ km/h} and upstream at 12\text{ km/h}. What is the speed of the boat in still water?
+   * A) 14\text{ km/h}
+   * B) 15\text{ km/h}
+   * C) 16\text{ km/h}
+   * D) 18\text{ km/h}
+8. A man rows 30\text{ km} downstream in 3\text{ hours} and 10\text{ km} upstream in 2\text{ hours}. Find the speed of the stream.
+   * A) 2\text{ km/h}
+   * B) 2.5\text{ km/h}
+   * C) 3\text{ km/h}
+   * D) 3.5\text{ km/h}
+9. The speed of a boat in still water is 15\text{ km/h} and the current is 3\text{ km/h}. How much time will it take to travel 72\text{ km} downstream?
+   * A) 3\text{ hours}
+   * B) 4\text{ hours}
+   * C) 5\text{ hours}
+   * D) 6\text{ hours}
+10. A motorboat can travel at 10\text{ km/h} in still water. It travels 35\text{ km} downstream in 2.5\text{ hours}. Find the speed of the stream.
+   * A) 3\text{ km/h}
+   * B) 4\text{ km/h}
+   * C) 5\text{ km/h}
+   * D) 6\text{ km/h}
+11. A man rows upstream 18\text{ km} in 4\text{ hours} and downstream 24\text{ km} in 3\text{ hours}. What is the speed of the man in still water?
+   * A) 5\text{ km/h}
+   * B) 5.25\text{ km/h}
+   * C) 5.5\text{ km/h}
+   * D) 6\text{ km/h}
+12. If a boat goes 15\text{ km} downstream in 30\text{ minutes}, what is its downstream speed?
+   * A) 20\text{ km/h}
+   * B) 25\text{ km/h}
+   * C) 30\text{ km/h}
+   * D) 35\text{ km/h}
+13. A boat goes 12\text{ km} upstream in 48\text{ minutes}. Find the upstream speed.
+   * A) 12\text{ km/h}
+   * B) 15\text{ km/h}
+   * C) 16\text{ km/h}
+   * D) 18\text{ km/h}
+14. The speed of a river is 2.5\text{ km/h} and a boat rows downstream at 12.5\text{ km/h}. Find the speed of the boat in still water.
+   * A) 9\text{ km/h}
+   * B) 10\text{ km/h}
+   * C) 10.5\text{ km/h}
+   * D) 11\text{ km/h}
+15. A boat travels 48\text{ km} downstream in 4\text{ hours}. If the speed of the stream is 2\text{ km/h}, find the time taken to travel the same distance upstream.
+   * A) 6\text{ hours}
+   * B) 8\text{ hours}
+   * C) 10\text{ hours}
+   * D) 12\text{ hours}
+16. A man rows a certain distance downstream in 2\text{ hours} and returns the same distance upstream in 3\text{ hours}. If the speed of the stream is 2\text{ km/h}, find the speed of the man in still water.
+   * A) 8\text{ km/h}
+   * B) 10\text{ km/h}
+   * C) 12\text{ km/h}
+   * D) 14\text{ km/h}
+17. A boat takes twice as long to row upstream as it does to row downstream. If the speed of the stream is 3\text{ km/h}, find the speed of the boat in still water.
+   * A) 6\text{ km/h}
+   * B) 8\text{ km/h}
+   * C) 9\text{ km/h}
+   * D) 12\text{ km/h}
+18. A man can row at a speed of 5\text{ km/h} in still water. If the velocity of the stream is 1\text{ km/h} and it takes him 1\text{ hour} to row to a place and come back, how far is the place?
+   * A) 2.4\text{ km}
+   * B) 2.5\text{ km}
+   * C) 3\text{ km}
+   * D) 3.6\text{ km}
+19. A boat covers a distance of 36\text{ km} downstream in 3\text{ hours} and returns upstream in 4\text{ hours}. Find the speed of the current.
+   * A) 1\text{ km/h}
+   * B) 1.5\text{ km/h}
+   * C) 2\text{ km/h}
+   * D) 2.5\text{ km/h}
+20. A man rows 40\text{ km} upstream and 55\text{ km} downstream in 13\text{ hours}. Also, he can row 30\text{ km} upstream and 44\text{ km} downstream in 10\text{ hours}. Find the speed of the stream.
+   * A) 2\text{ km/h}
+   * B) 3\text{ km/h}
+   * C) 4\text{ km/h}
+   * D) 5\text{ km/h}
+21. If a boat rows at 6\text{ km/h} in still water and the river flows at 1.5\text{ km/h}, how long does it take to travel 22.5\text{ km} downstream?
+   * A) 2.5\text{ hours}
+   * B) 3\text{ hours}
+   * C) 3.5\text{ hours}
+   * D) 4\text{ hours}
+22. A boatman rows 1\text{ km} in 5\text{ minutes} downstream, and 6\text{ km} in 1\text{ hour} upstream. Find the speed of the stream.
+   * A) 1\text{ km/h}
+   * B) 1.5\text{ km/h}
+   * C) 2\text{ km/h}
+   * D) 2.5\text{ km/h}
+23. A ship's speed in still water is 15\text{ km/h} and the stream speed is 3\text{ km/h}. It travels a distance and returns, taking a total of 5\text{ hours}. What is the one-way distance?
+   * A) 32\text{ km}
+   * B) 36\text{ km}
+   * C) 40\text{ km}
+   * D) 45\text{ km}
+24. A man can row 6\text{ km/h} in still water. When the river is running at 1.2\text{ km/h}, it takes him 1\text{ hour} to row to a place and back. Find the distance of that place.
+   * A) 2.88\text{ km}
+   * B) 3.12\text{ km}
+   * C) 3.45\text{ km}
+   * D) 4.20\text{ km}
+25. The ratio of the speed of a boat in still water to the speed of the stream is 5 : 2. If the boat covers 42\text{ km} downstream in 3\text{ hours}, find the upstream speed.
+   * A) 6\text{ km/h}
+   * B) 8\text{ km/h}
+   * C) 9\text{ km/h}
+   * D) 10\text{ km/h}
+26. A boat covers a round trip of 80\text{ km} (40\text{ km} each way) in 9\text{ hours}. If the speed of the stream is 2\text{ km/h}, find the speed of the boat in still water.
+   * A) 8\text{ km/h}
+   * B) 9\text{ km/h}
+   * C) 10\text{ km/h}
+   * D) 12\text{ km/h}
+27. A man rows 75\text{ km} downstream in 5\text{ hours} and 60\text{ km} upstream in 6\text{ hours}. Find the speed of the man in still water.
+   * A) 10\text{ km/h}
+   * B) 11\text{ km/h}
+   * C) 12\text{ km/h}
+   * D) 12.5\text{ km/h}
+28. If a boat travels 28\text{ km} downstream in 4\text{ hours} and 21\text{ km} upstream in 7\text{ hours}, find the speed of the stream.
+   * A) 1.5\text{ km/h}
+   * B) 2\text{ km/h}
+   * C) 2.5\text{ km/h}
+   * D) 3\text{ km/h}
+29. A motorboat whose speed is 15\text{ km/h} in still water goes 30\text{ km} downstream and comes back in a total of 4\text{ hours} 30\text{ minutes}. What is the speed of the stream?
+   * A) 4\text{ km/h}
+   * B) 5\text{ km/h}
+   * C) 6\text{ km/h}
+   * D) 7.5\text{ km/h}
+30. A boat takes 90\text{ minutes} less to travel 36\text{ km} downstream than to travel the same distance upstream. If the speed of the stream is 2\text{ km/h}, find the speed of the boat in still water.
+   * A) 8\text{ km/h}
+   * B) 10\text{ km/h}
+   * C) 12\text{ km/h}
+   * D) 14\text{ km/h}
+31. A man can row three-quarters of a kilometer against the stream in 11\frac{1}{4} minutes and downstream in 7\frac{1}{2} minutes. The speed of the man in still water is:
+   * A) 2\text{ km/h}
+   * B) 3\text{ km/h}
+   * C) 4\text{ km/h}
+   * D) 5\text{ km/h}
+32. A stream flows at a speed of 1.5\text{ km/h}. A man rows 1.5\text{ km} upstream and returns to the starting point in 30\text{ minutes}. Find the speed of the man in still water.
+   * A) 3\text{ km/h}
+   * B) 4\text{ km/h}
+   * C) 4.5\text{ km/h}
+   * D) 5\text{ km/h}
+33. A boat goes 12\text{ km} downstream and comes back to the starting point in 2\frac{1}{2} hours. If the speed of the current is 2\text{ km/h}, find the speed of the boat in still water.
+   * A) 8\text{ km/h}
+   * B) 10\text{ km/h}
+   * C) 12\text{ km/h}
+   * D) 14\text{ km/h}
+34. A boat running downstream covers a distance of 20\text{ km} in 2\text{ hours} while for covering the same distance upstream, it takes 5\text{ hours}. What is the speed of the boat in still water?
+   * A) 7\text{ km/h}
+   * B) 8\text{ km/h}
+   * C) 9\text{ km/h}
+   * D) 10\text{ km/h}
+35. The speed of a boat in still water is 10\text{ km/h}. If it can travel 26\text{ km} downstream and 14\text{ km} upstream in the same time, the speed of the stream is:
+   * A) 2\text{ km/h}
+   * B) 2.5\text{ km/h}
+   * C) 3\text{ km/h}
+   * D) 3.5\text{ km/h}
+36. A man rows 13\text{ km} downstream and 8\text{ km} upstream, taking 5\text{ hours} each time. Find the speed of the stream.
+   * A) 0.5\text{ km/h}
+   * B) 1\text{ km/h}
+   * C) 1.5\text{ km/h}
+   * D) 2\text{ km/h}
+37. A boat travels 24\text{ km} upstream and 28\text{ km} downstream in 6\text{ hours}. Also, it travels 30\text{ km} upstream and 21\text{ km} downstream in 6\text{ hours} 30\text{ minutes}. Find the speed of the boat in still water.
+   * A) 8\text{ km/h}
+   * B) 9\text{ km/h}
+   * C) 10\text{ km/h}
+   * D) 12\text{ km/h}
+38. A river is flowing at 2\text{ km/h}. A man rows a boat downstream for 30\text{ minutes} and covers 6\text{ km}. What is the speed of the boat in still water?
+   * A) 8\text{ km/h}
+   * B) 10\text{ km/h}
+   * C) 12\text{ km/h}
+   * D) 14\text{ km/h}
+39. A boat goes 40\text{ km} upstream in 8\text{ hours} and 36\text{ km} downstream in 6\text{ hours}. Find the ratio of the speed of the boat in still water to the speed of the stream.
+   * A) 3 : 1
+   * B) 4 : 1
+   * C) 5 : 1
+   * D) 7 : 1
+40. If a man's speed with the current is 12\text{ km/h} and the speed of the current is 1.5\text{ km/h}, then the man's speed against the current is:
+   * A) 9\text{ km/h}
+   * B) 9.5\text{ km/h}
+   * C) 10\text{ km/h}
+   * D) 10.5\text{ km/h}
+41. A swimmer swims 36\text{ km} downstream in 4\text{ hours} and 20\text{ km} upstream in 5\text{ hours}. Find the speed of the swimmer in still water.
+   * A) 7\text{ km/h}
+   * B) 7.5\text{ km/h}
+   * C) 8\text{ km/h}
+   * D) 8.5\text{ km/h}
+42. A boat takes 4\text{ hours} to travel a certain distance downstream, while it takes 6\text{ hours} to travel the same distance upstream. If the speed of the stream is 3\text{ km/h}, find the distance.
+   * A) 60\text{ km}
+   * B) 72\text{ km}
+   * C) 84\text{ km}
+   * D) 96\text{ km}
+43. A man rows to a place 48\text{ km} distant and back in 14\text{ hours}. He finds that he can row 4\text{ km} with the stream in the same time as 3\text{ km} against the stream. Find the speed of the stream.
+   * A) 1\text{ km/h}
+   * B) 1.5\text{ km/h}
+   * C) 2\text{ km/h}
+   * D) 2.5\text{ km/h}
+44. A boat can travel 20\text{ km} downstream in 2\text{ hours}. If the speed of the boat in still water is 8\text{ km/h}, find the time taken by the boat to cover 15\text{ km} upstream.
+   * A) 3\text{ hours}
+   * B) 4\text{ hours}
+   * C) 5\text{ hours}
+   * D) 6\text{ hours}
+45. A man rows 1\text{ km} upstream in 10\text{ minutes} and 1\text{ km} downstream in 4\text{ minutes}. Find the speed of the current.
+   * A) 3.5\text{ km/h}
+   * B) 4\text{ km/h}
+   * C) 4.5\text{ km/h}
+   * D) 5\text{ km/h}
+46. The speed of a motorboat in still water is 20\text{ km/h}. If the water current flows at 5\text{ km/h}, how much time will the boat save in traveling 100\text{ km} downstream compared to 100\text{ km} upstream?
+   * A) 4\text{ hours}
+   * B) 5\text{ hours}
+   * C) 6\text{ hours}
+   * D) 8\text{ hours}
+47. A boat moves downstream at 15\text{ km/h} and the speed of the current is 2.5\text{ km/h}. Find the upstream speed of the boat.
+   * A) 10\text{ km/h}
+   * B) 10.5\text{ km/h}
+   * C) 11\text{ km/h}
+   * D) 12\text{ km/h}
+48. A person rows a distance of 60\text{ km} downstream and then returns, taking a total of 13\text{ hours}. If the speed of the stream is 4\text{ km/h}, find the speed of the person in still water.
+   * A) 8\text{ km/h}
+   * B) 10\text{ km/h}
+   * C) 12\text{ km/h}
+   * D) 14\text{ km/h}
+49. A boat covers 16\text{ km} downstream and 24\text{ km} upstream in 4\text{ hours} each. What is the speed of the stream?
+   * A) 1\text{ km/h}
+   * B) 1.25\text{ km/h}
+   * C) 1.5\text{ km/h}
+   * D) 2\text{ km/h}
+50. If the speed of a boat in still water is 7\text{ km/h} and the stream speed is 3\text{ km/h}, calculate the average speed for a total journey of 20\text{ km} downstream and 20\text{ km} upstream.
+   * A) 4\text{ km/h}
+   * B) 4.8\text{ km/h}
+   * C) 5.2\text{ km/h}
+   * D) 5.6\text{ km/h}
+51. A boat can travel with a speed of 13\text{ km/h} in still water. If the speed of the stream is 4\text{ km/h}, find the time taken by the boat to cover 68\text{ km} downstream.
+   * A) 3\text{ hours}
+   * B) 4\text{ hours}
+   * C) 5\text{ hours}
+   * D) 6\text{ hours}
+52. A man can row at 5\text{ km/h} in still water. If the velocity of the current is 1\text{ km/h} and it takes him 3\text{ hours} to row to a place and back, find the distance of that place.
+   * A) 7.2\text{ km}
+   * B) 8\text{ km}
+   * C) 9\text{ km}
+   * D) 10\text{ km}
+53. A boat covers a distance of 50\text{ km} downstream in 2\text{ hours} 30\text{ minutes}. Find the downstream speed.
+   * A) 15\text{ km/h}
+   * B) 18\text{ km/h}
+   * C) 20\text{ km/h}
+   * D) 25\text{ km/h}
+54. A boat covers 22\text{ km} upstream in 4\text{ hours}. Find the upstream speed.
+   * A) 4.5\text{ km/h}
+   * B) 5\text{ km/h}
+   * C) 5.5\text{ km/h}
+   * D) 6\text{ km/h}
+55. The downstream speed of a boat is 22\text{ km/h} and the stream speed is 3.5\text{ km/h}. Find the speed of the boat in still water.
+   * A) 17\text{ km/h}
+   * B) 17.5\text{ km/h}
+   * C) 18\text{ km/h}
+   * D) 18.5\text{ km/h}
+56. The upstream speed of a boat is 9\text{ km/h} and the speed of the stream is 2.5\text{ km/h}. Find the downstream speed.
+   * A) 11.5\text{ km/h}
+   * B) 12\text{ km/h}
+   * C) 13\text{ km/h}
+   * D) 14\text{ km/h}
+57. A man rows 18\text{ km} downstream and 12\text{ km} upstream, taking 3\text{ hours} for each journey. Find the speed of the boat in still water.
+   * A) 4\text{ km/h}
+   * B) 5\text{ km/h}
+   * C) 6\text{ km/h}
+   * D) 7\text{ km/h}
+58. A boat travels 28\text{ km} downstream in 2\text{ hours}. The speed of the current is 2\text{ km/h}. Find the speed of the boat in still water.
+   * A) 10\text{ km/h}
+   * B) 11\text{ km/h}
+   * C) 12\text{ km/h}
+   * D) 14\text{ km/h}
+59. A boat goes 30\text{ km} upstream in 5\text{ hours} and 40\text{ km} downstream in 4\text{ hours}. Find the speed of the stream.
+   * A) 1\text{ km/h}
+   * B) 1.25\text{ km/h}
+   * C) 1.5\text{ km/h}
+   * D) 2\text{ km/h}
+60. A man rows 24\text{ km} upstream and 36\text{ km} downstream in 6\text{ hours} each. Find the total time taken to row 48\text{ km} in still water.
+   * A) 6\text{ hours}
+   * B) 7\text{ hours}
+   * C) 8\text{ hours}
+   * D) 9\text{ hours}
+61. If a boat's speed in still water is 12\text{ km/h} and the stream speed is 4\text{ km/h}, find the time taken to cover 96\text{ km} upstream.
+   * A) 8\text{ hours}
+   * B) 10\text{ hours}
+   * C) 12\text{ hours}
+   * D) 16\text{ hours}
+62. A boat travels 35\text{ km} downstream in 5\text{ hours} and 25\text{ km} upstream in 5\text{ hours}. Find the speed of the stream.
+   * A) 0.5\text{ km/h}
+   * B) 1\text{ km/h}
+   * C) 1.5\text{ km/h}
+   * D) 2\text{ km/h}
+63. A man can row 9\frac{1}{3} km/h in still water and finds that it takes him thrice as much time to row up as to row down the same distance. Find the speed of the stream.
+   * A) 3\frac{1}{3} km/h
+   * B) 4\text{ km/h}
+   * C) 4\frac{2}{3} km/h
+   * D) 5\text{ km/h}
+64. A boat covers a distance of 64\text{ km} downstream in 4\text{ hours}. If the speed of the boat in still water is 14\text{ km/h}, find the speed of the stream.
+   * A) 1\text{ km/h}
+   * B) 2\text{ km/h}
+   * C) 2.5\text{ km/h}
+   * D) 3\text{ km/h}
+65. A boatman can row 40\text{ km} downstream and 30\text{ km} upstream in 7\text{ hours} each. Find the speed of the stream.
+   * A) 0\text{ km/h}
+   * B) 0.5\text{ km/h}
+   * C) 1\text{ km/h}
+   * D) 1.5\text{ km/h}
+66. A man rows 45\text{ km} downstream in 3\text{ hours} and 12\text{ km} upstream in 4\text{ hours}. Find the speed of the river current.
+   * A) 4\text{ km/h}
+   * B) 4.5\text{ km/h}
+   * C) 5\text{ km/h}
+   * D) 5.5\text{ km/h}
+67. A boat takes 5\text{ hours} to travel a certain distance downstream and 7\text{ hours} to return the same distance upstream. If the speed of the stream is 2\text{ km/h}, find the total distance covered (round trip).
+   * A) 140\text{ km}
+   * B) 150\text{ km}
+   * C) 175\text{ km}
+   * D) 210\text{ km}
+68. The speed of a boat in still water is 16\text{ km/h} and the rate of current is 4\text{ km/h}. Find the percentage by which upstream speed is less than downstream speed.
+   * A) 30\%
+   * B) 40\%
+   * C) 50\%
+   * D) 60\%
+69. If a boat rows at a speed of 11\text{ km/h} downstream and 5\text{ km/h} upstream, find the speed of the boat in still water.
+   * A) 6\text{ km/h}
+   * B) 7\text{ km/h}
+   * C) 8\text{ km/h}
+   * D) 9\text{ km/h}
+70. A man rows 6\text{ km} downstream in 45\text{ minutes}. If the stream's speed is 1\text{ km/h}, find his speed in still water.
+   * A) 6\text{ km/h}
+   * B) 7\text{ km/h}
+   * C) 8\text{ km/h}
+   * D) 9\text{ km/h}
+71. A boat goes 24\text{ km} downstream and 24\text{ km} upstream in a total of 6\text{ hours}. If the speed of the stream is 2\text{ km/h}, find the speed of the boat in still water.
+   * A) 8\text{ km/h}
+   * B) 10\text{ km/h}
+   * C) 12\text{ km/h}
+   * D) 14\text{ km/h}
+72. A river flows at 3\text{ km/h}. A boat travels 60\text{ km} downstream and returns, taking 10\text{ hours} in total. Find the speed of the boat in still water.
+   * A) 10\text{ km/h}
+   * B) 12\text{ km/h}
+   * C) 13\text{ km/h}
+   * D) 15\text{ km/h}
+73. A boat can travel 30\text{ km} downstream in 2\text{ hours}. If the ratio of the speed of the boat in still water to the speed of the stream is 7 : 3, find the speed of the stream.
+   * A) 3\text{ km/h}
+   * B) 4.5\text{ km/h}
+   * C) 6\text{ km/h}
+   * D) 7.5\text{ km/h}
+74. A man can row 15\text{ km/h} in still water. Find the downstream speed if the river is running at 4.5\text{ km/h}.
+   * A) 10.5\text{ km/h}
+   * B) 15\text{ km/h}
+   * C) 19.5\text{ km/h}
+   * D) 20\text{ km/h}
+75. A boat covers 18\text{ km} upstream in 3\text{ hours} and 36\text{ km} downstream in 3\text{ hours}. What is the speed of the stream?
+   * A) 2\text{ km/h}
+   * B) 2.5\text{ km/h}
+   * C) 3\text{ km/h}
+   * D) 4\text{ km/h}
+76. A motorboat can travel at 12\text{ km/h} in still water. It travels 60\text{ km} downstream and then returns upstream to the starting point in a total of 12\text{ hours} 30\text{ minutes}. Find the speed of the stream.
+   * A) 2\text{ km/h}
+   * B) 3\text{ km/h}
+   * C) 4\text{ km/h}
+   * D) 5\text{ km/h}
+77. If the difference between downstream and upstream speeds of a boat is 6\text{ km/h}, what is the speed of the stream?
+   * A) 2\text{ km/h}
+   * B) 3\text{ km/h}
+   * C) 4\text{ km/h}
+   * D) 6\text{ km/h}
+78. A boat's speed in still water is 9\text{ km/h} and the stream speed is 3\text{ km/h}. It takes 4\text{ hours} to reach a destination. How far is the destination if it traveled downstream?
+   * A) 24\text{ km}
+   * B) 36\text{ km}
+   * C) 48\text{ km}
+   * D) 54\text{ km}
+79. A boat goes 32\text{ km} downstream and 12\text{ km} upstream in 4\text{ hours} each. Find the speed of the stream.
+   * A) 2\text{ km/h}
+   * B) 2.5\text{ km/h}
+   * C) 3\text{ km/h}
+   * D) 5\text{ km/h}
+80. A man rows 50\text{ km} downstream in 4\text{ hours}. If the speed of the stream is 2.5\text{ km/h}, find his upstream speed.
+   * A) 7.5\text{ km/h}
+   * B) 8\text{ km/h}
+   * C) 10\text{ km/h}
+   * D) 12.5\text{ km/h}
+81. A boat takes 3\text{ hours} to travel 36\text{ km} downstream. The speed of the stream is 2\text{ km/h}. In what time can it cover 30\text{ km} upstream?
+   * A) 4\text{ hours}
+   * B) 5\text{ hours}
+   * C) 6\text{ hours}
+   * D) 7.5\text{ hours}
+82. A man can row 8\text{ km/h} in still water. If the river is flowing at 2\text{ km/h}, it takes him 2\text{ hours} to row to a place and back. Find the distance to that place.
+   * A) 6\text{ km}
+   * B) 7.5\text{ km}
+   * C) 8\text{ km}
+   * D) 9\text{ km}
+83. A boat covers a distance of 48\text{ km} in 6\text{ hours} while moving upstream. If the stream speed is 2\text{ km/h}, find the time taken to cover the same distance downstream.
+   * A) 3\text{ hours}
+   * B) 4\text{ hours}
+   * C) 4.5\text{ hours}
+   * D) 5\text{ hours}
+84. If a boat rows 10\text{ km} upstream in 2\text{ hours} and 14\text{ km} downstream in 2\text{ hours}, find the speed of the boat in still water.
+   * A) 5\text{ km/h}
+   * B) 6\text{ km/h}
+   * C) 7\text{ km/h}
+   * D) 8\text{ km/h}
+85. A man rows 20\text{ km} downstream in 2\text{ hours} and 12\text{ km} upstream in 3\text{ hours}. What is the speed of the boat in still water?
+   * A) 7\text{ km/h}
+   * B) 7.5\text{ km/h}
+   * C) 8\text{ km/h}
+   * D) 8.5\text{ km/h}
+86. A boat travels 24\text{ km} downstream and returns in a total of 5\text{ hours}. If the speed of the stream is 2\text{ km/h}, find the speed of the boat in still water.
+   * A) 8\text{ km/h}
+   * B) 10\text{ km/h}
+   * C) 12\text{ km/h}
+   * D) 14\text{ km/h}
+87. A motorboat's speed in still water is 18\text{ km/h}. It takes 3\text{ hours} to move 45\text{ km} upstream. Find the speed of the stream.
+   * A) 2\text{ km/h}
+   * B) 3\text{ km/h}
+   * C) 4\text{ km/h}
+   * D) 5\text{ km/h}
+88. A river flows at 4\text{ km/h}. A boatman rows 12\text{ km} downstream and returns, taking a total of 4\text{ hours}. Find the speed of the boat in still water.
+   * A) 6\text{ km/h}
+   * B) 8\text{ km/h}
+   * C) 10\text{ km/h}
+   * D) 12\text{ km/h}
+89. A boat can travel 14\text{ km} downstream in 1\text{ hour}. If the speed of the stream is 3\text{ km/h}, find the time taken to cover 22\text{ km} upstream.
+   * A) 2\text{ hours}
+   * B) 2.5\text{ hours}
+   * C) 3\text{ hours}
+   * D) 4\text{ hours}
+90. A man rows a boat 60\text{ km} downstream in 5\text{ hours}. If the speed of the current is 3\text{ km/h}, find the time taken by him to row 36\text{ km} upstream.
+   * A) 4\text{ hours}
+   * B) 5\text{ hours}
+   * C) 6\text{ hours}
+   * D) 8\text{ hours}
+91. The speed of a boat in still water is 14\text{ km/h} and the speed of the stream is 2\text{ km/h}. Find the distance traveled downstream in 3.5\text{ hours}.
+   * A) 42\text{ km}
+   * B) 49\text{ km}
+   * C) 56\text{ km}
+   * D) 63\text{ km}
+92. A boat travels 56\text{ km} downstream in 4\text{ hours} and 40\text{ km} upstream in 5\text{ hours}. Find the speed of the stream.
+   * A) 1\text{ km/h}
+   * B) 1.5\text{ km/h}
+   * C) 2\text{ km/h}
+   * D) 2.5\text{ km/h}
+93. A man rows a boat at 4\text{ km/h} in still water. If the stream speed is 1.5\text{ km/h}, find the time taken to cover 22\text{ km} downstream.
+   * A) 3\text{ hours}
+   * B) 4\text{ hours}
+   * C) 4.5\text{ hours}
+   * D) 5\text{ hours}
+94. A boat covers 15\text{ km} upstream in 3\text{ hours} and 25\text{ km} downstream in 2\text{ hours} 30\text{ minutes}. What is the speed of the boat in still water?
+   * A) 7\text{ km/h}
+   * B) 8\text{ km/h}
+   * C) 9\text{ km/h}
+   * D) 10\text{ km/h}
+95. If a boat takes 5\text{ hours} to travel a certain distance downstream and 8\text{ hours} to travel the same distance upstream, and the speed of the stream is 1.5\text{ km/h}, find the speed of the boat in still water.
+   * A) 6.5\text{ km/h}
+   * B) 7\text{ km/h}
+   * C) 7.5\text{ km/h}
+   * D) 8\text{ km/h}
+96. A man rows 4\text{ km} upstream and 4\text{ km} downstream in 1\text{ hour} each? No, wait: a man rows 4\text{ km} upstream and 4\text{ km} downstream, taking a total of 1\text{ hour}. If the stream speed is 2\text{ km/h}, find his speed in still water.
+   * A) 6\text{ km/h}
+   * B) 8\text{ km/h}
+   * C) 10\text{ km/h}
+   * D) 12\text{ km/h}
+97. A boat's downstream speed is 24\text{ km/h} and its upstream speed is 16\text{ km/h}. Find the time taken to travel 120\text{ km} in still water.
+   * A) 5\text{ hours}
+   * B) 6\text{ hours}
+   * C) 7.5\text{ hours}
+   * D) 8\text{ hours}
+98. The ratio of the speed of a boat in still water and stream is 8 : 1. If the boat covers 36\text{ km} downstream in 2\text{ hours}, find the speed of the stream.
+   * A) 1\text{ km/h}
+   * B) 2\text{ km/h}
+   * C) 3\text{ km/h}
+   * D) 4\text{ km/h}
+99. A man rows a boat at a speed of 12\text{ km/h} in still water. If the river flows at 3\text{ km/h}, find the time taken to row 60\text{ km} downstream.
+   * A) 3\text{ hours}
+   * B) 4\text{ hours}
+   * C) 5\text{ hours}
+   * D) 6\text{ hours}
+100. A boat covers 60\text{ km} downstream in 4\text{ hours}. If the speed of the stream is 3\text{ km/h}, find the time taken to cover 60\text{ km} upstream.
+   * A) 4\text{ hours}
+   * B) 5\text{ hours}
+   * C) 6\text{ hours}
+   * D) 7\text{ hours}
+101. A man can row 10\text{ km/h} in still water. If the current is flowing at 2\text{ km/h}, find the distance covered downstream in 4\text{ hours}.
+   * A) 32\text{ km}
+   * B) 40\text{ km}
+   * C) 48\text{ km}
+   * D) 56\text{ km}
+102. A boat covers 45\text{ km} downstream in 3\text{ hours}. Find the speed of the stream if the boat's speed in still water is 12\text{ km/h}.
+   * A) 2\text{ km/h}
+   * B) 2.5\text{ km/h}
+   * C) 3\text{ km/h}
+   * D) 4\text{ km/h}
+103. If a boat rows 27\text{ km} upstream in 3\text{ hours} and 45\text{ km} downstream in 3\text{ hours}, find the speed of the boat in still water.
+   * A) 10\text{ km/h}
+   * B) 11\text{ km/h}
+   * C) 12\text{ km/h}
+   * D) 13\text{ km/h}
+104. A boat takes 6\text{ hours} to go 48\text{ km} downstream. The speed of the stream is 2\text{ km/h}. What is the speed of the boat in still water?
+   * A) 6\text{ km/h}
+   * B) 8\text{ km/h}
+   * C) 10\text{ km/h}
+   * D) 12\text{ km/h}
+105. A boat travels 20\text{ km} downstream in 2\text{ hours} and returns upstream in 5\text{ hours}. What is the speed of the stream?
+   * A) 2\text{ km/h}
+   * B) 3\text{ km/h}
+   * C) 4\text{ km/h}
+   * D) 5\text{ km/h}
+106. A man rows 16\text{ km} upstream and 24\text{ km} downstream in 6\text{ hours} each. Find the speed of the stream.
+   * A) 0.5\text{ km/h}
+   * B) 1\text{ km/h}
+   * C) 1.5\text{ km/h}
+   * D) 2\text{ km/h}
+107. A river flows at 2\text{ km/h} and a boat rows 36\text{ km} downstream in 4\text{ hours}. Find the time taken to return upstream.
+   * A) 6\text{ hours}
+   * B) 8\text{ hours}
+   * C) 9\text{ hours}
+   * D) 10\text{ hours}
+108. A motorboat can travel at 15\text{ km/h} in still water. If the river flows at 3\text{ km/h}, find the total time taken to go 72\text{ km} downstream and return 72\text{ km} upstream.
+   * A) 10\text{ hours}
+   * B) 11\text{ hours}
+   * C) 12\text{ hours}
+   * D) 12.5\text{ hours}
+109. If a man rows 12\text{ km} upstream and 18\text{ km} downstream in 3\text{ hours} each, what is the speed of the stream?
+   * A) 0.5\text{ km/h}
+   * B) 1\text{ km/h}
+   * C) 1.25\text{ km/h}
+   * D) 1.5\text{ km/h}
+110. A boat goes 35\text{ km} downstream in 5\text{ hours} and 18\text{ km} upstream in 6\text{ hours}. Find the speed of the boat in still water.
+   * A) 4.5\text{ km/h}
+   * B) 5\text{ km/h}
+   * C) 5.5\text{ km/h}
+   * D) 6\text{ km/h}
+111. A boat takes 4\text{ hours} to row 32\text{ km} downstream. The stream speed is 3\text{ km/h}. Find the upstream speed.
+   * A) 3\text{ km/h}
+   * B) 4\text{ km/h}
+   * C) 5\text{ km/h}
+   * D) 6\text{ km/h}
+112. A man rows a boat at 6\text{ km/h} in still water. If the current is 2\text{ km/h}, how long will it take him to travel 32\text{ km} downstream?
+   * A) 3\text{ hours}
+   * B) 4\text{ hours}
+   * C) 5\text{ hours}
+   * D) 6\text{ hours}
+113. A boat travels 40\text{ km} downstream in 4\text{ hours}. The speed of the stream is 3\text{ km/h}. Find the speed of the boat in still water.
+   * A) 7\text{ km/h}
+   * B) 8\text{ km/h}
+   * C) 9\text{ km/h}
+   * D) 10\text{ km/h}
+114. The speed of a boat in still water is 10\text{ km/h}. It covers 24\text{ km} upstream in 4\text{ hours}. Find the speed of the stream.
+   * A) 2\text{ km/h}
+   * B) 3\text{ km/h}
+   * C) 4\text{ km/h}
+   * D) 5\text{ km/h}
+115. A boat goes 50\text{ km} downstream in 4\text{ hours} and 40\text{ km} upstream in 8\text{ hours}. Find the speed of the boat in still water.
+   * A) 9\text{ km/h}
+   * B) 9.75\text{ km/h}
+   * C) 10\text{ km/h}
+   * D) 10.5\text{ km/h}
+116. A man rows 11\text{ km/h} in still water. If the river is running at 2.5\text{ km/h}, find the time taken to cover 54\text{ km} downstream.
+   * A) 3.5\text{ hours}
+   * B) 4\text{ hours}
+   * C) 4.5\text{ hours}
+   * D) 5\text{ hours}
+117. A boat can travel 24\text{ km} downstream in 3\text{ hours}. If the speed of the stream is 1.5\text{ km/h}, find the speed of the boat in still water.
+   * A) 5\text{ km/h}
+   * B) 6\text{ km/h}
+   * C) 6.5\text{ km/h}
+   * D) 7\text{ km/h}
+118. A river flows at a speed of 2\text{ km/h}. A man rows a boat 32\text{ km} downstream and returns upstream in a total of 12\text{ hours}. Find the speed of the boat in still water.
+   * A) 6\text{ km/h}
+   * B) 8\text{ km/h}
+   * C) 10\text{ km/h}
+   * D) 12\text{ km/h}
+119. A boat covers 12\text{ km} downstream in 2\text{ hours}. The speed of the stream is 1\text{ km/h}. Find the upstream speed.
+   * A) 3\text{ km/h}
+   * B) 4\text{ km/h}
+   * C) 5\text{ km/h}
+   * D) 6\text{ km/h}
+120. A man can row 7.5\text{ km/h} in still water. If the stream flows at 1.5\text{ km/h}, find the time taken to travel 36\text{ km} downstream.
+   * A) 3\text{ hours}
+   * B) 4\text{ hours}
+   * C) 4.5\text{ hours}
+   * D) 5\text{ hours}
+121. A boat takes 2\text{ hours} to row 18\text{ km} downstream. Find its downstream speed.
+   * A) 6\text{ km/h}
+   * B) 8\text{ km/h}
+   * C) 9\text{ km/h}
+   * D) 10\text{ km/h}
+122. A boat takes 4\text{ hours} to row 20\text{ km} upstream. Find its upstream speed.
+   * A) 4\text{ km/h}
+   * B) 5\text{ km/h}
+   * C) 6\text{ km/h}
+   * D) 8\text{ km/h}
+123. If the speed of a boat in still water is 9\text{ km/h} and the stream speed is 1\text{ km/h}, find the downstream speed.
+   * A) 8\text{ km/h}
+   * B) 9\text{ km/h}
+   * C) 10\text{ km/h}
+   * D) 11\text{ km/h}
+124. If the speed of a boat in still water is 14\text{ km/h} and the stream speed is 3\text{ km/h}, find the upstream speed.
+   * A) 10\text{ km/h}
+   * B) 11\text{ km/h}
+   * C) 12\text{ km/h}
+   * D) 17\text{ km/h}
+125. The downstream speed of a boat is 18\text{ km/h} and the upstream speed is 12\text{ km/h}. What is the speed of the boat in still water?
+   * A) 14\text{ km/h}
+   * B) 15\text{ km/h}
+   * C) 16\text{ km/h}
+   * D) 17\text{ km/h}
+126. The downstream speed of a boat is 22\text{ km/h} and the upstream speed is 14\text{ km/h}. What is the speed of the stream?
+   * A) 2\text{ km/h}
+   * B) 3\text{ km/h}
+   * C) 4\text{ km/h}
+   * D) 5\text{ km/h}
+127. A boat rows downstream at 25\text{ km/h} and upstream at 15\text{ km/h}. Find the speed of the boat in still water.
+   * A) 18\text{ km/h}
+   * B) 20\text{ km/h}
+   * C) 22\text{ km/h}
+   * D) 24\text{ km/h}
+128. A man rows 40\text{ km} downstream in 4\text{ hours} and 20\text{ km} upstream in 5\text{ hours}. Find the speed of the stream.
+   * A) 2\text{ km/h}
+   * B) 2.5\text{ km/h}
+   * C) 3\text{ km/h}
+   * D) 3.5\text{ km/h}
+129. The speed of a boat in still water is 12\text{ km/h} and the current is 2.5\text{ km/h}. How much time will it take to travel 58\text{ km} downstream?
+   * A) 2\text{ hours}
+   * B) 3\text{ hours}
+   * C) 4\text{ hours}
+   * D) 4.5\text{ hours}
+130. A motorboat can travel at 16\text{ km/h} in still water. It travels 48\text{ km} downstream in 2\text{ hours}. Find the speed of the stream.
+   * A) 6\text{ km/h}
+   * B) 7\text{ km/h}
+   * C) 8\text{ km/h}
+   * D) 9\text{ km/h}
+131. A man rows upstream 21\text{ km} in 3\text{ hours} and downstream 33\text{ km} in 3\text{ hours}. What is the speed of the man in still water?
+   * A) 8\text{ km/h}
+   * B) 9\text{ km/h}
+   * C) 10\text{ km/h}
+   * D) 11\text{ km/h}
+132. If a boat goes 22\text{ km} downstream in 45\text{ minutes}, what is its downstream speed?
+   * A) 24\text{ km/h}
+   * B) 26\text{ km/h}
+   * C) 28\text{ km/h}
+   * D) 29.33\text{ km/h}
+133. A boat goes 15\text{ km} upstream in 45\text{ minutes}. Find the upstream speed.
+   * A) 15\text{ km/h}
+   * B) 18\text{ km/h}
+   * C) 20\text{ km/h}
+   * D) 22\text{ km/h}
+134. The speed of a river is 2\text{ km/h} and a boat rows downstream at 14\text{ km/h}. Find the speed of the boat in still water.
+   * A) 10\text{ km/h}
+   * B) 11\text{ km/h}
+   * C) 12\text{ km/h}
+   * D) 13\text{ km/h}
+135. A boat travels 56\text{ km} downstream in 4\text{ hours}. If the speed of the stream is 3\text{ km/h}, find the time taken to travel the same distance upstream.
+   * A) 7\text{ hours}
+   * B) 8\text{ hours}
+   * C) 10\text{ hours}
+   * D) 14\text{ hours}
+136. A man rows a certain distance downstream in 3\text{ hours} and returns the same distance upstream in 5\text{ hours}. If the speed of the stream is 2\text{ km/h}, find the speed of the man in still water.
+   * A) 7\text{ km/h}
+   * B) 8\text{ km/h}
+   * C) 9\text{ km/h}
+   * D) 10\text{ km/h}
+137. A boat takes triple the time to row upstream as it does to row downstream. If the speed of the stream is 4\text{ km/h}, find the speed of the boat in still water.
+   * A) 6\text{ km/h}
+   * B) 8\text{ km/h}
+   * C) 10\text{ km/h}
+   * D) 12\text{ km/h}
+138. A man can row at a speed of 6\text{ km/h} in still water. If the velocity of the stream is 1.5\text{ km/h} and it takes him 2\text{ hours} to row to a place and come back, how far is the place?
+   * A) 4.875\text{ km}
+   * B) 5.25\text{ km}
+   * C) 6\text{ km}
+   * D) 6.25\text{ km}
+139. A boat covers a distance of 45\text{ km} downstream in 3\text{ hours} and returns upstream in 5\text{ hours}. Find the speed of the current.
+   * A) 1.5\text{ km/h}
+   * B) 2\text{ km/h}
+   * C) 2.5\text{ km/h}
+   * D) 3\text{ km/h}
+140. If a boat rows at 8\text{ km/h} in still water and the river flows at 2\text{ km/h}, how long does it take to travel 30\text{ km} downstream?
+   * A) 2.5\text{ hours}
+   * B) 3\text{ hours}
+   * C) 3.5\text{ hours}
+   * D) 4\text{ hours}
+141. A boatman rows 2\text{ km} in 6\text{ minutes} downstream, and 5\text{ km} in 1\text{ hour} upstream. Find the speed of the stream.
+   * A) 5\text{ km/h}
+   * B) 6\text{ km/h}
+   * C) 7\text{ km/h}
+   * D) 7.5\text{ km/h}
+142. A ship's speed in still water is 12\text{ km/h} and the stream speed is 2\text{ km/h}. It travels a distance and returns, taking a total of 6\text{ hours}. What is the one-way distance?
+   * A) 28\text{ km}
+   * B) 30\text{ km}
+   * C) 32\text{ km}
+   * D) 35\text{ km}
+143. The ratio of the speed of a boat in still water to the speed of the stream is 4 : 1. If the boat covers 45\text{ km} downstream in 3\text{ hours}, find the upstream speed.
+   * A) 7.5\text{ km/h}
+   * B) 9\text{ km/h}
+   * C) 10\text{ km/h}
+   * D) 12\text{ km/h}
+144. A boat covers a round trip of 60\text{ km} (30\text{ km} each way) in 8\text{ hours}. If the speed of the stream is 2\text{ km/h}, find the speed of the boat in still water.
+   * A) 6\text{ km/h}
+   * B) 8\text{ km/h}
+   * C) 10\text{ km/h}
+   * D) 12\text{ km/h}
+145. A man rows 60\text{ km} downstream in 4\text{ hours} and 40\text{ km} upstream in 5\text{ hours}. Find the speed of the man in still water.
+   * A) 10\text{ km/h}
+   * B) 11\text{ km/h}
+   * C) 12\text{ km/h}
+   * D) 12.5\text{ km/h}
+146. If a boat travels 36\text{ km} downstream in 4\text{ hours} and 16\text{ km} upstream in 4\text{ hours}, find the speed of the stream.
+   * A) 2\text{ km/h}
+   * B) 2.5\text{ km/h}
+   * C) 3\text{ km/h}
+   * D) 3.5\text{ km/h}
+147. A motorboat whose speed is 12\text{ km/h} in still water goes 36\text{ km} downstream and comes back in a total of 8\text{ hours}. What is the speed of the stream?
+   * A) 2\text{ km/h}
+   * B) 3\text{ km/h}
+   * C) 4\text{ km/h}
+   * D) 5\text{ km/h}
+148. A boat takes 2\text{ hours} less to travel 24\text{ km} downstream than to travel the same distance upstream. If the speed of the stream is 2\text{ km/h}, find the speed of the boat in still water.
+   * A) 4\text{ km/h}
+   * B) 5\text{ km/h}
+   * C) 6\text{ km/h}
+   * D) 8\text{ km/h}
+149. A stream flows at a speed of 2\text{ km/h}. A man rows 2\text{ km} upstream and returns to the starting point in 45\text{ minutes}. Find the speed of the man in still water.
+   * A) 4\text{ km/h}
+   * B) 5\text{ km/h}
+   * C) 6\text{ km/h}
+   * D) 7\text{ km/h}
+150. A boat goes 16\text{ km} downstream and comes back to the starting point in 3\text{ hours}. If the speed of the current is 4\text{ km/h}, find the speed of the boat in still water.
+   * A) 10\text{ km/h}
+   * B) 12\text{ km/h}
+   * C) 14\text{ km/h}
+   * D) 16\text{ km/h}
+151. A boat running downstream covers a distance of 30\text{ km} in 2\text{ hours} while for covering the same distance upstream, it takes 6\text{ hours}. What is the speed of the boat in still water?
+   * A) 8\text{ km/h}
+   * B) 10\text{ km/h}
+   * C) 12\text{ km/h}
+   * D) 15\text{ km/h}
+152. The speed of a boat in still water is 12\text{ km/h}. If it can travel 36\text{ km} downstream and 20\text{ km} upstream in the same time, the speed of the stream is:
+   * A) 2\text{ km/h}
+   * B) 2.5\text{ km/h}
+   * C) 3\text{ km/h}
+   * D) 4\text{ km/h}
+153. A man rows 22\text{ km} downstream and 14\text{ km} upstream, taking 4\text{ hours} each time. Find the speed of the stream.
+   * A) 1\text{ km/h}
+   * B) 1.5\text{ km/h}
+   * C) 2\text{ km/h}
+   * D) 2.5\text{ km/h}
+154. A river is flowing at 3\text{ km/h}. A man rows a boat downstream for 40\text{ minutes} and covers 8\text{ km}. What is the speed of the boat in still water?
+   * A) 7\text{ km/h}
+   * B) 8\text{ km/h}
+   * C) 9\text{ km/h}
+   * D) 10\text{ km/h}
+155. A boat goes 45\text{ km} upstream in 9\text{ hours} and 48\text{ km} downstream in 6\text{ hours}. Find the ratio of the speed of the boat in still water to the speed of the stream.
+   * A) 3 : 1
+   * B) 4 : 1
+   * C) 5 : 1
+   * D) 7 : 1
+156. If a man's speed with the current is 15\text{ km/h} and the speed of the current is 2.5\text{ km/h}, then the man's speed against the current is:
+   * A) 10\text{ km/h}
+   * B) 10.5\text{ km/h}
+   * C) 11\text{ km/h}
+   * D) 12.5\text{ km/h}
+157. A swimmer swims 40\text{ km} downstream in 4\text{ hours} and 24\text{ km} upstream in 6\text{ hours}. Find the speed of the swimmer in still water.
+   * A) 7\text{ km/h}
+   * B) 8\text{ km/h}
+   * C) 8.5\text{ km/h}
+   * D) 9\text{ km/h}
+158. A boat takes 3\text{ hours} to travel a certain distance downstream, while it takes 5\text{ hours} to travel the same distance upstream. If the speed of the stream is 2\text{ km/h}, find the distance.
+   * A) 30\text{ km}
+   * B) 40\text{ km}
+   * C) 45\text{ km}
+   * D) 60\text{ km}
+159. A boat can travel 30\text{ km} downstream in 2\text{ hours}. If the speed of the boat in still water is 11\text{ km/h}, find the time taken by the boat to cover 14\text{ km} upstream.
+   * A) 2\text{ hours}
+   * B) 2.5\text{ hours}
+   * C) 3\text{ hours}
+   * D) 4\text{ hours}
+160. A man rows 2\text{ km} upstream in 20\text{ minutes} and 2\text{ km} downstream in 6\text{ minutes}. Find the speed of the current.
+   * A) 3.5\text{ km/h}
+   * B) 4\text{ km/h}
+   * C) 4.5\text{ km/h}
+   * D) 5\text{ km/h}
+161. The speed of a motorboat in still water is 25\text{ km/h}. If the water current flows at 5\text{ km/h}, how much time will the boat save in traveling 150\text{ km} downstream compared to 150\text{ km} upstream?
+   * A) 4\text{ hours}
+   * B) 5\text{ hours}
+   * C) 6\text{ hours}
+   * D) 7.5\text{ hours}
+162. A boat moves downstream at 18\text{ km/h} and the speed of the current is 3\text{ km/h}. Find the upstream speed of the boat.
+   * A) 11\text{ km/h}
+   * B) 12\text{ km/h}
+   * C) 13\text{ km/h}
+   * D) 14\text{ km/h}
+163. A person rows a distance of 40\text{ km} downstream and then returns, taking a total of 9\text{ hours}. If the speed of the stream is 3\text{ km/h}, find the speed of the person in still water.
+   * A) 8\text{ km/h}
+   * B) 9\text{ km/h}
+   * C) 10\text{ km/h}
+   * D) 11\text{ km/h}
+164. A boat covers 20\text{ km} downstream and 30\text{ km} upstream in 5\text{ hours} each. What is the speed of the stream?
+   * A) 0.5\text{ km/h}
+   * B) 1\text{ km/h}
+   * C) 1.25\text{ km/h}
+   * D) 1.5\text{ km/h}
+165. If the speed of a boat in still water is 8\text{ km/h} and the stream speed is 2\text{ km/h}, calculate the average speed for a total journey of 24\text{ km} downstream and 24\text{ km} upstream.
+   * A) 6\text{ km/h}
+   * B) 7\text{ km/h}
+   * C) 7.5\text{ km/h}
+   * D) 8\text{ km/h}
+166. A boat can travel with a speed of 15\text{ km/h} in still water. If the speed of the stream is 3\text{ km/h}, find the time taken by the boat to cover 72\text{ km} downstream.
+   * A) 3\text{ hours}
+   * B) 4\text{ hours}
+   * C) 4.5\text{ hours}
+   * D) 5\text{ hours}
+167. A boat covers a distance of 40\text{ km} downstream in 2\text{ hours}. Find the downstream speed.
+   * A) 15\text{ km/h}
+   * B) 18\text{ km/h}
+   * C) 20\text{ km/h}
+   * D) 25\text{ km/h}
+168. A boat covers 18\text{ km} upstream in 3\text{ hours}. Find the upstream speed.
+   * A) 4\text{ km/h}
+   * B) 5\text{ km/h}
+   * C) 6\text{ km/h}
+   * D) 8\text{ km/h}
+169. The downstream speed of a boat is 26\text{ km/h} and the stream speed is 4\text{ km/h}. Find the speed of the boat in still water.
+   * A) 20\text{ km/h}
+   * B) 21\text{ km/h}
+   * C) 22\text{ km/h}
+   * D) 23\text{ km/h}
+170. The upstream speed of a boat is 12\text{ km/h} and the speed of the stream is 3\text{ km/h}. Find the downstream speed.
+   * A) 15\text{ km/h}
+   * B) 16\text{ km/h}
+   * C) 17\text{ km/h}
+   * D) 18\text{ km/h}
+171. A man rows 24\text{ km} downstream and 16\text{ km} upstream, taking 4\text{ hours} for each journey. Find the speed of the boat in still water.
+   * A) 4\text{ km/h}
+   * B) 5\text{ km/h}
+   * C) 6\text{ km/h}
+   * D) 7\text{ km/h}
+172. A boat travels 36\text{ km} downstream in 3\text{ hours}. The speed of the current is 3\text{ km/h}. Find the speed of the boat in still water.
+   * A) 9\text{ km/h}
+   * B) 10\text{ km/h}
+   * C) 11\text{ km/h}
+   * D) 12\text{ km/h}
+173. A boat goes 35\text{ km} upstream in 7\text{ hours} and 50\text{ km} downstream in 5\text{ hours}. Find the speed of the stream.
+   * A) 1\text{ km/h}
+   * B) 1.5\text{ km/h}
+   * C) 2\text{ km/h}
+   * D) 2.5\text{ km/h}
+174. A man rows 30\text{ km} upstream and 42\text{ km} downstream in 6\text{ hours} each. Find the total time taken to row 60\text{ km} in still water.
+   * A) 6\text{ hours}
+   * B) 7\text{ hours}
+   * C) 8\text{ hours}
+   * D) 10\text{ hours}
+175. If a boat's speed in still water is 14\text{ km/h} and the stream speed is 3\text{ km/h}, find the time taken to cover 85\text{ km} upstream.
+   * A) 5\text{ hours}
+   * B) 6\text{ hours}
+   * C) 7\text{ hours}
+   * D) 8\text{ hours}
+176. A boat travels 45\text{ km} downstream in 5\text{ hours} and 35\text{ km} upstream in 7\text{ hours}. Find the speed of the stream.
+   * A) 1\text{ km/h}
+   * B) 1.5\text{ km/h}
+   * C) 2\text{ km/h}
+   * D) 2.5\text{ km/h}
+177. A boat covers a distance of 72\text{ km} downstream in 4\text{ hours}. If the speed of the boat in still water is 15\text{ km/h}, find the speed of the stream.
+   * A) 2\text{ km/h}
+   * B) 2.5\text{ km/h}
+   * C) 3\text{ km/h}
+   * D) 3.5\text{ km/h}
+178. A boatman can row 50\text{ km} downstream and 40\text{ km} upstream in 8\text{ hours} each. Find the speed of the stream.
+   * A) 0.5\text{ km/h}
+   * B) 1\text{ km/h}
+   * C) 1.25\text{ km/h}
+   * D) 1.5\text{ km/h}
+179. A man rows 60\text{ km} downstream in 4\text{ hours} and 15\text{ km} upstream in 3\text{ hours}. Find the speed of the river current.
+   * A) 4\text{ km/h}
+   * B) 4.5\text{ km/h}
+   * C) 5\text{ km/h}
+   * D) 6\text{ km/h}
+180. A boat takes 4\text{ hours} to travel a certain distance downstream and 6\text{ hours} to return the same distance upstream. If the speed of the stream is 2.5\text{ km/h}, find the total distance covered (round trip).
+   * A) 120\text{ km}
+   * B) 150\text{ km}
+   * C) 180\text{ km}
+   * D) 200\text{ km}
+181. The speed of a boat in still water is 18\text{ km/h} and the rate of current is 6\text{ km/h}. Find the percentage by which upstream speed is less than downstream speed.
+   * A) 40\%
+   * B) 50\%
+   * C) 60\%
+   * D) 75\%
+182. If a boat rows at a speed of 14\text{ km/h} downstream and 6\text{ km/h} upstream, find the speed of the boat in still water.
+   * A) 8\text{ km/h}
+   * B) 9\text{ km/h}
+   * C) 10\text{ km/h}
+   * D) 11\text{ km/h}
+183. A man rows 9\text{ km} downstream in 36\text{ minutes}. If the stream's speed is 1.5\text{ km/h}, find his speed in still water.
+   * A) 12\text{ km/h}
+   * B) 13\text{ km/h}
+   * C) 13.5\text{ km/h}
+   * D) 15\text{ km/h}
+184. A boat goes 30\text{ km} downstream and 30\text{ km} upstream in a total of 8\text{ hours}. If the speed of the stream is 2\text{ km/h}, find the speed of the boat in still water.
+   * A) 6\text{ km/h}
+   * B) 8\text{ km/h}
+   * C) 10\text{ km/h}
+   * D) 12\text{ km/h}
+185. A river flows at 2.5\text{ km/h}. A boat travels 50\text{ km} downstream and returns, taking 9\text{ hours} in total. Find the speed of the boat in still water.
+   * A) 10\text{ km/h}
+   * B) 11\text{ km/h}
+   * C) 12.5\text{ km/h}
+   * D) 15\text{ km/h}
+186. A boat can travel 40\text{ km} downstream in 2\text{ hours} 30\text{ minutes}. If the ratio of the speed of the boat in still water to the speed of the stream is 3 : 1, find the speed of the stream.
+   * A) 2\text{ km/h}
+   * B) 3\text{ km/h}
+   * C) 4\text{ km/h}
+   * D) 5\text{ km/h}
+187. A man can row 18\text{ km/h} in still water. Find the downstream speed if the river is running at 5.5\text{ km/h}.
+   * A) 22.5\text{ km/h}
+   * B) 23\text{ km/h}
+   * C) 23.5\text{ km/h}
+   * D) 24\text{ km/h}
+188. A boat covers 21\text{ km} upstream in 3\text{ hours} and 42\text{ km} downstream in 2\text{ hours}. What is the speed of the stream?
+   * A) 3\text{ km/h}
+   * B) 3.5\text{ km/h}
+   * C) 4\text{ km/h}
+   * D) 5\text{ km/h}
+189. A motorboat can travel at 14\text{ km/h} in still water. It travels 70\text{ km} downstream and then returns upstream to the starting point in a total of 12\text{ hours}. Find the speed of the stream.
+   * A) 2\text{ km/h}
+   * B) 3\text{ km/h}
+   * C) 4\text{ km/h}
+   * D) 5\text{ km/h}
+190. If the difference between downstream and upstream speeds of a boat is 8\text{ km/h}, what is the speed of the stream?
+   * A) 2\text{ km/h}
+   * B) 3\text{ km/h}
+   * C) 4\text{ km/h}
+   * D) 8\text{ km/h}
+191. A boat's speed in still water is 12\text{ km/h} and the stream speed is 4\text{ km/h}. It takes 3\text{ hours} to reach a destination. How far is the destination if it traveled downstream?
+   * A) 36\text{ km}
+   * B) 42\text{ km}
+   * C) 48\text{ km}
+   * D) 54\text{ km}
+192. A boat goes 36\text{ km} downstream and 16\text{ km} upstream in 4\text{ hours} each. Find the speed of the stream.
+   * A) 2\text{ km/h}
+   * B) 2.5\text{ km/h}
+   * C) 3\text{ km/h}
+   * D) 4\text{ km/h}
+193. A man rows 60\text{ km} downstream in 5\text{ hours}. If the speed of the stream is 3\text{ km/h}, find his upstream speed.
+   * A) 7\text{ km/h}
+   * B) 8\text{ km/h}
+   * C) 9\text{ km/h}
+   * D) 10\text{ km/h}
+194. A boat takes 4\text{ hours} to travel 48\text{ km} downstream. The speed of the stream is 3\text{ km/h}. In what time can it cover 36\text{ km} upstream?
+   * A) 3\text{ hours}
+   * B) 4\text{ hours}
+   * C) 4.5\text{ hours}
+   * D) 5\text{ hours}
+195. A man can row 10\text{ km/h} in still water. If the river is flowing at 2.5\text{ km/h}, it takes him 3\text{ hours} to row to a place and back. Find the distance to that place.
+   * A) 12\text{ km}
+   * B) 13.125\text{ km}
+   * C) 14\text{ km}
+   * D) 15\text{ km}
+196. A boat covers a distance of 54\text{ km} in 6\text{ hours} while moving upstream. If the stream speed is 2.5\text{ km/h}, find the time taken to cover the same distance downstream.
+   * A) 3\text{ hours}
+   * B) 3.5\text{ hours}
+   * C) 4\text{ hours}
+   * D) 4.5\text{ hours}
+197. If a boat rows 12\text{ km} upstream in 2\text{ hours} and 20\text{ km} downstream in 2\text{ hours}, find the speed of the boat in still water.
+   * A) 7\text{ km/h}
+   * B) 8\text{ km/h}
+   * C) 9\text{ km/h}
+   * D) 10\text{ km/h}
+198. A man rows 24\text{ km} downstream in 2\text{ hours} and 15\text{ km} upstream in 3\text{ hours}. What is the speed of the boat in still water?
+   * A) 7\text{ km/h}
+   * B) 8\text{ km/h}
+   * C) 9\text{ km/h}
+   * D) 9.5\text{ km/h}
+199. A boat travels 30\text{ km} downstream and returns in a total of 6\text{ hours}. If the speed of the stream is 2\text{ km/h}, find the speed of the boat in still water.
+   * A) 8\text{ km/h}
+   * B) 10\text{ km/h}
+   * C) 12\text{ km/h}
+   * D) 14\text{ km/h}
+200. A motorboat's speed in still water is 16\text{ km/h}. It takes 4\text{ hours} to move 60\text{ km} upstream. Find the speed of the stream.
+   * A) 1\text{ km/h}
+   * B) 1.5\text{ km/h}
+   * C) 2\text{ km/h}
+   * D) 2.5\text{ km/h}
+Part 2: Second Set of 200 Questions (Easy Level)
+1. If a boat travels 10\text{ km} downstream in 2\text{ hours}, what is its downstream speed?
+   * A) 2\text{ km/h}
+   * B) 4\text{ km/h}
+   * C) 5\text{ km/h}
+   * D) 10\text{ km/h}
+2. If a boat travels 12\text{ km} upstream in 3\text{ hours}, what is its upstream speed?
+   * A) 3\text{ km/h}
+   * B) 4\text{ km/h}
+   * C) 6\text{ km/h}
+   * D) 9\text{ km/h}
+3. The speed of a boat in still water is 6\text{ km/h} and the stream speed is 2\text{ km/h}. Find the downstream speed.
+   * A) 4\text{ km/h}
+   * B) 6\text{ km/h}
+   * C) 8\text{ km/h}
+   * D) 12\text{ km/h}
+4. The speed of a boat in still water is 7\text{ km/h} and the stream speed is 2\text{ km/h}. Find the upstream speed.
+   * A) 3\text{ km/h}
+   * B) 5\text{ km/h}
+   * C) 9\text{ km/h}
+   * D) 14\text{ km/h}
+5. If the downstream speed is 10\text{ km/h} and upstream speed is 6\text{ km/h}, find the boat's speed in still water.
+   * A) 4\text{ km/h}
+   * B) 8\text{ km/h}
+   * C) 10\text{ km/h}
+   * D) 16\text{ km/h}
+6. If the downstream speed is 12\text{ km/h} and upstream speed is 8\text{ km/h}, find the stream speed.
+   * A) 2\text{ km/h}
+   * B) 4\text{ km/h}
+   * C) 10\text{ km/h}
+   * D) 20\text{ km/h}
+7. A boat's speed in still water is 5\text{ km/h} and the current is 1\text{ km/h}. What is the downstream speed?
+   * A) 4\text{ km/h}
+   * B) 5\text{ km/h}
+   * C) 6\text{ km/h}
+   * D) 7\text{ km/h}
+8. A boat's speed in still water is 9\text{ km/h} and the current is 3\text{ km/h}. What is the upstream speed?
+   * A) 3\text{ km/h}
+   * B) 6\text{ km/h}
+   * C) 12\text{ km/h}
+   * D) 27\text{ km/h}
+9. A man rows 15\text{ km} downstream in 3\text{ hours}. Find his downstream speed.
+   * A) 3\text{ km/h}
+   * B) 5\text{ km/h}
+   * C) 8\text{ km/h}
+   * D) 45\text{ km/h}
+10. A man rows 8\text{ km} upstream in 4\text{ hours}. Find his upstream speed.
+   * A) 2\text{ km/h}
+   * B) 4\text{ km/h}
+   * C) 12\text{ km/h}
+   * D) 32\text{ km/h}
+11. If downstream speed is 14\text{ km/h} and the current is 2\text{ km/h}, find the speed of the boat in still water.
+   * A) 10\text{ km/h}
+   * B) 12\text{ km/h}
+   * C) 16\text{ km/h}
+   * D) 28\text{ km/h}
+12. If upstream speed is 6\text{ km/h} and the current is 2\text{ km/h}, find the speed of the boat in still water.
+   * A) 4\text{ km/h}
+   * B) 8\text{ km/h}
+   * C) 10\text{ km/h}
+   * D) 12\text{ km/h}
+13. A boat covers 20\text{ km} downstream in 4\text{ hours}. Find the downstream speed.
+   * A) 4\text{ km/h}
+   * B) 5\text{ km/h}
+   * C) 8\text{ km/h}
+   * D) 16\text{ km/h}
+14. A boat covers 18\text{ km} upstream in 6\text{ hours}. Find the upstream speed.
+   * A) 2\text{ km/h}
+   * B) 3\text{ km/h}
+   * C) 4\text{ km/h}
+   * D) 6\text{ km/h}
+15. The speed of a boat in still water is 10\text{ km/h} and stream speed is 4\text{ km/h}. Find downstream speed.
+   * A) 6\text{ km/h}
+   * B) 10\text{ km/h}
+   * C) 14\text{ km/h}
+   * D) 40\text{ km/h}
+16. The speed of a boat in still water is 15\text{ km/h} and stream speed is 5\text{ km/h}. Find upstream speed.
+   * A) 5\text{ km/h}
+   * B) 10\text{ km/h}
+   * C) 20\text{ km/h}
+   * D) 75\text{ km/h}
+17. If a boat travels at 16\text{ km/h} downstream and the stream is 3\text{ km/h}, what is the boat's speed in still water?
+   * A) 12\text{ km/h}
+   * B) 13\text{ km/h}
+   * C) 19\text{ km/h}
+   * D) 48\text{ km/h}
+18. If a boat travels at 7\text{ km/h} upstream and the stream is 2\text{ km/h}, what is the boat's speed in still water?
+   * A) 5\text{ km/h}
+   * B) 9\text{ km/h}
+   * C) 14\text{ km/h}
+   * D) 3.5\text{ km/h}
+19. A man rows 24\text{ km} downstream in 4\text{ hours}. Find the downstream speed.
+   * A) 4\text{ km/h}
+   * B) 6\text{ km/h}
+   * C) 8\text{ km/h}
+   * D) 96\text{ km/h}
+20. A man rows 14\text{ km} upstream in 7\text{ hours}. Find the upstream speed.
+   * A) 2\text{ km/h}
+   * B) 7\text{ km/h}
+   * C) 9\text{ km/h}
+   * D) 21\text{ km/h}
+21. What is the downstream speed if a boat goes 30\text{ km} in 5\text{ hours} with the current?
+   * A) 5\text{ km/h}
+   * B) 6\text{ km/h}
+   * C) 25\text{ km/h}
+   * D) 150\text{ km/h}
+22. What is the upstream speed if a boat goes 16\text{ km} in 8\text{ hours} against the current?
+   * A) 2\text{ km/h}
+   * B) 8\text{ km/h}
+   * C) 24\text{ km/h}
+   * D) 128\text{ km/h}
+23. If boat speed in still water is 4\text{ km/h} and stream speed is 1\text{ km/h}, find downstream speed.
+   * A) 3\text{ km/h}
+   * B) 4\text{ km/h}
+   * C) 5\text{ km/h}
+   * D) 8\text{ km/h}
+24. If boat speed in still water is 8\text{ km/h} and stream speed is 3\text{ km/h}, find upstream speed.
+   * A) 3\text{ km/h}
+   * B) 5\text{ km/h}
+   * C) 11\text{ km/h}
+   * D) 24\text{ km/h}
+25. A boat's downstream speed is 15\text{ km/h} and upstream speed is 9\text{ km/h}. Find the boat speed in still water.
+   * A) 6\text{ km/h}
+   * B) 12\text{ km/h}
+   * C) 24\text{ km/h}
+   * D) 135\text{ km/h}
+26. A boat's downstream speed is 18\text{ km/h} and upstream speed is 10\text{ km/h}. Find the stream speed.
+   * A) 4\text{ km/h}
+   * B) 8\text{ km/h}
+   * C) 14\text{ km/h}
+   * D) 28\text{ km/h}
+27. Find the time taken by a boat to travel 20\text{ km} downstream if its downstream speed is 5\text{ km/h}.
+   * A) 2\text{ hours}
+   * B) 4\text{ hours}
+   * C) 5\text{ hours}
+   * D) 100\text{ hours}
+28. Find the time taken by a boat to travel 24\text{ km} upstream if its upstream speed is 6\text{ km/h}.
+   * A) 2\text{ hours}
+   * B) 3\text{ hours}
+   * C) 4\text{ hours}
+   * D) 18\text{ hours}
+29. Find the distance covered downstream in 3\text{ hours} if the downstream speed is 7\text{ km/h}.
+   * A) 10\text{ km}
+   * B) 21\text{ km}
+   * C) 4\text{ km}
+   * D) 24\text{ km}
+30. Find the distance covered upstream in 4\text{ hours} if the upstream speed is 5\text{ km/h}.
+   * A) 9\text{ km}
+   * B) 20\text{ km}
+   * C) 1\text{ km}
+   * D) 25\text{ km}
+31. If downstream speed is 11\text{ km/h} and stream speed is 1.5\text{ km/h}, find boat speed in still water.
+   * A) 9\text{ km/h}
+   * B) 9.5\text{ km/h}
+   * C) 12.5\text{ km/h}
+   * D) 13\text{ km/h}
+32. If upstream speed is 8\text{ km/h} and stream speed is 1.5\text{ km/h}, find boat speed in still water.
+   * A) 6.5\text{ km/h}
+   * B) 9.5\text{ km/h}
+   * C) 11\text{ km/h}
+   * D) 12\text{ km/h}
+33. A boat goes 25\text{ km} downstream in 5\text{ hours}. What is its downstream speed?
+   * A) 4\text{ km/h}
+   * B) 5\text{ km/h}
+   * C) 6\text{ km/h}
+   * D) 20\text{ km/h}
+34. A boat goes 21\text{ km} upstream in 7\text{ hours}. What is its upstream speed?
+   * A) 2\text{ km/h}
+   * B) 3\text{ km/h}
+   * C) 4\text{ km/h}
+   * D) 14\text{ km/h}
+35. The speed of a boat in still water is 11\text{ km/h} and the current is 1\text{ km/h}. Find the downstream speed.
+   * A) 10\text{ km/h}
+   * B) 11\text{ km/h}
+   * C) 12\text{ km/h}
+   * D) 22\text{ km/h}
+36. The speed of a boat in still water is 13\text{ km/h} and the current is 3\text{ km/h}. Find the upstream speed.
+   * A) 10\text{ km/h}
+   * B) 13\text{ km/h}
+   * C) 16\text{ km/h}
+   * D) 39\text{ km/h}
+37. If downstream speed is 16\text{ km/h} and upstream speed is 12\text{ km/h}, the boat speed in still water is:
+   * A) 2\text{ km/h}
+   * B) 4\text{ km/h}
+   * C) 14\text{ km/h}
+   * D) 28\text{ km/h}
+38. If downstream speed is 20\text{ km/h} and upstream speed is 12\text{ km/h}, the stream speed is:
+   * A) 4\text{ km/h}
+   * B) 8\text{ km/h}
+   * C) 16\text{ km/h}
+   * D) 32\text{ km/h}
+39. A man rows 35\text{ km} downstream in 7\text{ hours}. Find downstream speed.
+   * A) 5\text{ km/h}
+   * B) 7\text{ km/h}
+   * C) 12\text{ km/h}
+   * D) 28\text{ km/h}
+40. A man rows 9\text{ km} upstream in 3\text{ hours}. Find upstream speed.
+   * A) 2\text{ km/h}
+   * B) 3\text{ km/h}
+   * C) 6\text{ km/h}
+   * D) 12\text{ km/h}
+41. A boat travels 28\text{ km} downstream in 7\text{ hours}. Find the downstream speed.
+   * A) 2\text{ km/h}
+   * B) 3\text{ km/h}
+   * C) 4\text{ km/h}
+   * D) 7\text{ km/h}
+42. A boat travels 15\text{ km} upstream in 5\text{ hours}. Find the upstream speed.
+   * A) 2\text{ km/h}
+   * B) 3\text{ km/h}
+   * C) 5\text{ km/h}
+   * D) 10\text{ km/h}
+43. If boat speed in still water is 12\text{ km/h} and stream speed is 2\text{ km/h}, find downstream speed.
+   * A) 10\text{ km/h}
+   * B) 12\text{ km/h}
+   * C) 14\text{ km/h}
+   * D) 24\text{ km/h}
+44. If boat speed in still water is 14\text{ km/h} and stream speed is 3\text{ km/h}, find upstream speed.
+   * A) 11\text{ km/h}
+   * B) 14\text{ km/h}
+   * C) 17\text{ km/h}
+   * D) 42\text{ km/h}
+45. Downstream speed is 22\text{ km/h} and upstream speed is 12\text{ km/h}. Find boat speed in still water.
+   * A) 5\text{ km/h}
+   * B) 10\text{ km/h}
+   * C) 17\text{ km/h}
+   * D) 34\text{ km/h}
+46. Downstream speed is 24\text{ km/h} and upstream speed is 16\text{ km/h}. Find stream speed.
+   * A) 2\text{ km/h}
+   * B) 4\text{ km/h}
+   * C) 8\text{ km/h}
+   * D) 20\text{ km/h}
+47. A boat goes 36\text{ km} downstream in 6\text{ hours}. Find its downstream speed.
+   * A) 4\text{ km/h}
+   * B) 6\text{ km/h}
+   * C) 30\text{ km/h}
+   * D) 42\text{ km/h}
+48. A boat goes 10\text{ km} upstream in 5\text{ hours}. Find its upstream speed.
+   * A) 2\text{ km/h}
+   * B) 5\text{ km/h}
+   * C) 15\text{ km/h}
+   * D) 50\text{ km/h}
+49. Speed of boat in still water is 8\text{ km/h} and stream is 1\text{ km/h}. Downstream speed is:
+   * A) 7\text{ km/h}
+   * B) 8\text{ km/h}
+   * C) 9\text{ km/h}
+   * D) 8\text{ km/h}
+50. Speed of boat in still water is 9\text{ km/h} and stream is 2\text{ km/h}. Upstream speed is:
+   * A) 7\text{ km/h}
+   * B) 9\text{ km/h}
+   * C) 11\text{ km/h}
+   * D) 18\text{ km/h}
+51. If downstream speed is 13\text{ km/h} and upstream speed is 7\text{ km/h}, boat speed in still water is:
+   * A) 3\text{ km/h}
+   * B) 6\text{ km/h}
+   * C) 10\text{ km/h}
+   * D) 20\text{ km/h}
+52. If downstream speed is 15\text{ km/h} and upstream speed is 9\text{ km/h}, stream speed is:
+   * A) 3\text{ km/h}
+   * B) 6\text{ km/h}
+   * C) 12\text{ km/h}
+   * D) 24\text{ km/h}
+53. A man rows 45\text{ km} downstream in 9\text{ hours}. Downstream speed is:
+   * A) 4\text{ km/h}
+   * B) 5\text{ km/h}
+   * C) 9\text{ km/h}
+   * D) 40\text{ km/h}
+54. A man rows 12\text{ km} upstream in 6\text{ hours}. Upstream speed is:
+   * A) 2\text{ km/h}
+   * B) 6\text{ km/h}
+   * C) 18\text{ km/h}
+   * D) 72\text{ km/h}
+55. Boat speed in still water is 15\text{ km/h} and stream speed is 3\text{ km/h}. Downstream speed is:
+   * A) 12\text{ km/h}
+   * B) 15\text{ km/h}
+   * C) 18\text{ km/h}
+   * D) 45\text{ km/h}
+56. Boat speed in still water is 16\text{ km/h} and stream speed is 4\text{ km/h}. Upstream speed is:
+   * A) 4\text{ km/h}
+   * B) 12\text{ km/h}
+   * C) 20\text{ km/h}
+   * D) 64\text{ km/h}
+57. Downstream speed is 30\text{ km/h} and upstream speed is 20\text{ km/h}. Boat speed in still water is:
+   * A) 5\text{ km/h}
+   * B) 10\text{ km/h}
+   * C) 25\text{ km/h}
+   * D) 50\text{ km/h}
+58. Downstream speed is 25\text{ km/h} and upstream speed is 15\text{ km/h}. Stream speed is:
+   * A) 5\text{ km/h}
+   * B) 10\text{ km/h}
+   * C) 20\text{ km/h}
+   * D) 40\text{ km/h}
+59. A boat travels 50\text{ km} downstream in 10\text{ hours}. Downstream speed is:
+   * A) 5\text{ km/h}
+   * B) 10\text{ km/h}
+   * C) 40\text{ km/h}
+   * D) 500\text{ km/h}
+60. A boat travels 24\text{ km} upstream in 8\text{ hours}. Upstream speed is:
+   * A) 2\text{ km/h}
+   * B) 3\text{ km/h}
+   * C) 8\text{ km/h}
+   * D) 32\text{ km/h}
+61. If boat speed in still water is 7\text{ km/h} and stream is 3\text{ km/h}, downstream speed is:
+   * A) 4\text{ km/h}
+   * B) 7\text{ km/h}
+   * C) 10\text{ km/h}
+   * D) 21\text{ km/h}
+62. If boat speed in still water is 10\text{ km/h} and stream is 3\text{ km/h}, upstream speed is:
+   * A) 3\text{ km/h}
+   * B) 7\text{ km/h}
+   * C) 13\text{ km/h}
+   * D) 30\text{ km/h}
+63. Downstream speed is 19\text{ km/h} and upstream speed is 11\text{ km/h}. Boat speed in still water is:
+   * A) 8\text{ km/h}
+   * B) 15\text{ km/h}
+   * C) 30\text{ km/h}
+   * D) 38\text{ km/h}
+64. Downstream speed is 21\text{ km/h} and upstream speed is 11\text{ km/h}. Stream speed is:
+   * A) 5\text{ km/h}
+   * B) 10\text{ km/h}
+   * C) 16\text{ km/h}
+   * D) 32\text{ km/h}
+65. A man rows 16\text{ km} downstream in 2\text{ hours}. Downstream speed is:
+   * A) 2\text{ km/h}
+   * B) 8\text{ km/h}
+   * C) 14\text{ km/h}
+   * D) 32\text{ km/h}
+66. A man rows 18\text{ km} upstream in 9\text{ hours}. Upstream speed is:
+   * A) 2\text{ km/h}
+   * B) 9\text{ km/h}
+   * C) 27\text{ km/h}
+   * D) 162\text{ km/h}
+67. Boat speed in still water is 18\text{ km/h} and stream speed is 2\text{ km/h}. Downstream speed is:
+   * A) 16\text{ km/h}
+   * B) 18\text{ km/h}
+   * C) 20\text{ km/h}
+   * D) 36\text{ km/h}
+68. Boat speed in still water is 20\text{ km/h} and stream speed is 5\text{ km/h}. Upstream speed is:
+   * A) 5\text{ km/h}
+   * B) 15\text{ km/h}
+   * C) 25\text{ km/h}
+   * D) 100\text{ km/h}
+69. Downstream speed is 28\text{ km/h} and upstream speed is 18\text{ km/h}. Boat speed in still water is:
+   * A) 5\text{ km/h}
+   * B) 10\text{ km/h}
+   * C) 23\text{ km/h}
+   * D) 46\text{ km/h}
+70. Downstream speed is 32\text{ km/h} and upstream speed is 22\text{ km/h}. Stream speed is:
+   * A) 5\text{ km/h}
+   * B) 10\text{ km/h}
+   * C) 27\text{ km/h}
+   * D) 54\text{ km/h}
+71. A boat travels 42\text{ km} downstream in 6\text{ hours}. Downstream speed is:
+   * A) 6\text{ km/h}
+   * B) 7\text{ km/h}
+   * C) 36\text{ km/h}
+   * D) 48\text{ km/h}
+72. A boat travels 30\text{ km} upstream in 6\text{ hours}. Upstream speed is:
+   * A) 5\text{ km/h}
+   * B) 6\text{ km/h}
+   * C) 24\text{ km/h}
+   * D) 36\text{ km/h}
+73. Boat speed in still water is 12\text{ km/h} and stream speed is 3\text{ km/h}. Downstream speed is:
+   * A) 9\text{ km/h}
+   * B) 12\text{ km/h}
+   * C) 15\text{ km/h}
+   * D) 36\text{ km/h}
+74. Boat speed in still water is 14\text{ km/h} and stream speed is 4\text{ km/h}. Upstream speed is:
+   * A) 4\text{ km/h}
+   * B) 10\text{ km/h}
+   * C) 18\text{ km/h}
+   * D) 56\text{ km/h}
+75. Downstream speed is 35\text{ km/h} and upstream speed is 25\text{ km/h}. Boat speed in still water is:
+   * A) 5\text{ km/h}
+   * B) 30\text{ km/h}
+   * C) 60\text{ km/h}
+   * D) 10\text{ km/h}
+76. Downstream speed is 40\text{ km/h} and upstream speed is 20\text{ km/h}. Stream speed is:
+   * A) 10\text{ km/h}
+   * B) 20\text{ km/h}
+   * C) 30\text{ km/h}
+   * D) 60\text{ km/h}
+77. A man rows 36\text{ km} downstream in 4\text{ hours}. Downstream speed is:
+   * A) 4\text{ km/h}
+   * B) 9\text{ km/h}
+   * C) 32\text{ km/h}
+   * D) 40\text{ km/h}
+78. A man rows 20\text{ km} upstream in 5\text{ hours}. Upstream speed is:
+   * A) 4\text{ km/h}
+   * B) 5\text{ km/h}
+   * C) 15\text{ km/h}
+   * D) 25\text{ km/h}
+79. Boat speed in still water is 22\text{ km/h} and stream speed is 2\text{ km/h}. Downstream speed is:
+   * A) 20\text{ km/h}
+   * B) 22\text{ km/h}
+   * C) 24\text{ km/h}
+   * D) 44\text{ km/h}
+80. Boat speed in still water is 25\text{ km/h} and stream speed is 5\text{ km/h}. Upstream speed is:
+   * A) 5\text{ km/h}
+   * B) 20\text{ km/h}
+   * C) 30\text{ km/h}
+   * D) 125\text{ km/h}
+81. Downstream speed is 45\text{ km/h} and upstream speed is 35\text{ km/h}. Boat speed in still water is:
+   * A) 5\text{ km/h}
+   * B) 40\text{ km/h}
+   * C) 80\text{ km/h}
+   * D) 10\text{ km/h}
+82. Downstream speed is 50\text{ km/h} and upstream speed is 30\text{ km/h}. Stream speed is:
+   * A) 10\text{ km/h}
+   * B) 20\text{ km/h}
+   * C) 40\text{ km/h}
+   * D) 80\text{ km/h}
+83. A boat travels 60\text{ km} downstream in 5\text{ hours}. Downstream speed is:
+   * A) 10\text{ km/h}
+   * B) 12\text{ km/h}
+   * C) 55\text{ km/h}
+   * D) 300\text{ km/h}
+84. A boat travels 36\text{ km} upstream in 9\text{ hours}. Upstream speed is:
+   * A) 3\text{ km/h}
+   * B) 4\text{ km/h}
+   * C) 9\text{ km/h}
+   * D) 45\text{ km/h}
+85. Boat speed in still water is 30\text{ km/h} and stream speed is 5\text{ km/h}. Downstream speed is:
+   * A) 25\text{ km/h}
+   * B) 30\text{ km/h}
+   * C) 35\text{ km/h}
+   * D) 150\text{ km/h}
+86. Boat speed in still water is 35\text{ km/h} and stream speed is 5\text{ km/h}. Upstream speed is:
+   * A) 5\text{ km/h}
+   * B) 30\text{ km/h}
+   * C) 40\text{ km/h}
+   * D) 175\text{ km/h}
+87. Downstream speed is 55\text{ km/h} and upstream speed is 45\text{ km/h}. Boat speed in still water is:
+   * A) 5\text{ km/h}
+   * B) 50\text{ km/h}
+   * C) 100\text{ km/h}
+   * D) 10\text{ km/h}
+88. Downstream speed is 60\text{ km/h} and upstream speed is 40\text{ km/h}. Stream speed is:
+   * A) 10\text{ km/h}
+   * B) 20\text{ km/h}
+   * C) 50\text{ km/h}
+   * D) 100\text{ km/h}
+89. A man rows 70\text{ km} downstream in 7\text{ hours}. Downstream speed is:
+   * A) 7\text{ km/h}
+   * B) 10\text{ km/h}
+   * C) 63\text{ km/h}
+   * D) 490\text{ km/h}
+90. A man rows 28\text{ km} upstream in 7\text{ hours}. Upstream speed is:
+   * A) 2\text{ km/h}
+   * B) 4\text{ km/h}
+   * C) 7\text{ km/h}
+   * D) 35\text{ km/h}
+91. Boat speed in still water is 40\text{ km/h} and stream speed is 10\text{ km/h}. Downstream speed is:
+   * A) 30\text{ km/h}
+   * B) 40\text{ km/h}
+   * C) 50\text{ km/h}
+   * D) 400\text{ km/h}
+92. Boat speed in still water is 45\text{ km/h} and stream speed is 10\text{ km/h}. Upstream speed is:
+   * A) 10\text{ km/h}
+   * B) 35\text{ km/h}
+   * C) 55\text{ km/h}
+   * D) 450\text{ km/h}
+93. Downstream speed is 70\text{ km/h} and upstream speed is 50\text{ km/h}. Boat speed in still water is:
+   * A) 10\text{ km/h}
+   * B) 60\text{ km/h}
+   * C) 120\text{ km/h}
+   * D) 20\text{ km/h}
+94. Downstream speed is 80\text{ km/h} and upstream speed is 60\text{ km/h}. Stream speed is:
+   * A) 10\text{ km/h}
+   * B) 20\text{ km/h}
+   * C) 70\text{ km/h}
+   * D) 140\text{ km/h}
+95. A boat travels 80\text{ km} downstream in 8\text{ hours}. Downstream speed is:
+   * A) 8\text{ km/h}
+   * B) 10\text{ km/h}
+   * C) 72\text{ km/h}
+   * D) 640\text{ km/h}
+96. A boat travels 45\text{ km} upstream in 9\text{ hours}. Upstream speed is:
+   * A) 4\text{ km/h}
+   * B) 5\text{ km/h}
+   * C) 9\text{ km/h}
+   * D) 405\text{ km/h}
+97. Boat speed in still water is 50\text{ km/h} and stream speed is 5\text{ km/h}. Downstream speed is:
+   * A) 45\text{ km/h}
+   * B) 50\text{ km/h}
+   * C) 55\text{ km/h}
+   * D) 250\text{ km/h}
+98. Boat speed in still water is 60\text{ km/h} and stream speed is 10\text{ km/h}. Upstream speed is:
+   * A) 10\text{ km/h}
+   * B) 50\text{ km/h}
+   * C) 70\text{ km/h}
+   * D) 600\text{ km/h}
+99. Downstream speed is 90\text{ km/h} and upstream speed is 70\text{ km/h}. Boat speed in still water is:
+   * A) 10\text{ km/h}
+   * B) 80\text{ km/h}
+   * C) 160\text{ km/h}
+   * D) 20\text{ km/h}
+100. Downstream speed is 100\text{ km/h} and upstream speed is 80\text{ km/h}. Stream speed is:
+   * A) 10\text{ km/h}
+   * B) 20\text{ km/h}
+   * C) 90\text{ km/h}
+   * D) 180\text{ km/h}
+101. If a boat travels 14\text{ km} downstream in 2\text{ hours}, what is its downstream speed?
+   * A) 7\text{ km/h}
+   * B) 12\text{ km/h}
+   * C) 14\text{ km/h}
+   * D) 28\text{ km/h}
+102. If a boat travels 15\text{ km} upstream in 3\text{ hours}, what is its upstream speed?
+   * A) 3\text{ km/h}
+   * B) 5\text{ km/h}
+   * C) 12\text{ km/h}
+   * D) 45\text{ km/h}
+103. The speed of a boat in still water is 8\text{ km/h} and the stream speed is 2\text{ km/h}. Find the downstream speed.
+   * A) 6\text{ km/h}
+   * B) 8\text{ km/h}
+   * C) 10\text{ km/h}
+   * D) 16\text{ km/h}
+104. The speed of a boat in still water is 9\text{ km/h} and the stream speed is 3\text{ km/h}. Find the upstream speed.
+   * A) 3\text{ km/h}
+   * B) 6\text{ km/h}
+   * C) 12\text{ km/h}
+   * D) 27\text{ km/h}
+105. If the downstream speed is 12\text{ km/h} and upstream speed is 8\text{ km/h}, find the boat's speed in still water.
+   * A) 4\text{ km/h}
+   * B) 10\text{ km/h}
+   * C) 12\text{ km/h}
+   * D) 20\text{ km/h}
+106. If the downstream speed is 14\text{ km/h} and upstream speed is 10\text{ km/h}, find the stream speed.
+   * A) 2\text{ km/h}
+   * B) 4\text{ km/h}
+   * C) 12\text{ km/h}
+   * D) 24\text{ km/h}
+107. A boat's speed in still water is 7\text{ km/h} and the current is 2\text{ km/h}. What is the downstream speed?
+   * A) 5\text{ km/h}
+   * B) 7\text{ km/h}
+   * C) 9\text{ km/h}
+   * D) 14\text{ km/h}
+108. A boat's speed in still water is 11\text{ km/h} and the current is 4\text{ km/h}. What is the upstream speed?
+   * A) 4\text{ km/h}
+   * B) 7\text{ km/h}
+   * C) 15\text{ km/h}
+   * D) 44\text{ km/h}
+109. A man rows 18\text{ km} downstream in 3\text{ hours}. Find his downstream speed.
+   * A) 3\text{ km/h}
+   * B) 6\text{ km/h}
+   * C) 15\text{ km/h}
+   * D) 54\text{ km/h}
+110. A man rows 12\text{ km} upstream in 4\text{ hours}. Find his upstream speed.
+   * A) 3\text{ km/h}
+   * B) 4\text{ km/h}
+   * C) 8\text{ km/h}
+   * D) 48\text{ km/h}
+111. If downstream speed is 16\text{ km/h} and the current is 3\text{ km/h}, find the speed of the boat in still water.
+   * A) 13\text{ km/h}
+   * B) 14\text{ km/h}
+   * C) 19\text{ km/h}
+   * D) 48\text{ km/h}
+112. If upstream speed is 7\text{ km/h} and the current is 3\text{ km/h}, find the speed of the boat in still water.
+   * A) 4\text{ km/h}
+   * B) 10\text{ km/h}
+   * C) 11\text{ km/h}
+   * D) 21\text{ km/h}
+113. A boat covers 24\text{ km} downstream in 4\text{ hours}. Find the downstream speed.
+   * A) 4\text{ km/h}
+   * B) 6\text{ km/h}
+   * C) 20\text{ km/h}
+   * D) 96\text{ km/h}
+114. A boat covers 20\text{ km} upstream in 5\text{ hours}. Find the upstream speed.
+   * A) 4\text{ km/h}
+   * B) 5\text{ km/h}
+   * C) 15\text{ km/h}
+   * D) 100\text{ km/h}
+115. The speed of a boat in still water is 12\text{ km/h} and stream speed is 5\text{ km/h}. Find downstream speed.
+   * A) 7\text{ km/h}
+   * B) 12\text{ km/h}
+   * C) 17\text{ km/h}
+   * D) 60\text{ km/h}
+116. The speed of a boat in still water is 16\text{ km/h} and stream speed is 6\text{ km/h}. Find upstream speed.
+   * A) 6\text{ km/h}
+   * B) 10\text{ km/h}
+   * C) 22\text{ km/h}
+   * D) 96\text{ km/h}
+117. If a boat travels at 18\text{ km/h} downstream and the stream is 4\text{ km/h}, what is the boat's speed in still water?
+   * A) 14\text{ km/h}
+   * B) 22\text{ km/h}
+   * C) 72\text{ km/h}
+   * D) 4.5\text{ km/h}
+118. If a boat travels at 9\text{ km/h} upstream and the stream is 3\text{ km/h}, what is the boat's speed in still water?
+   * A) 6\text{ km/h}
+   * B) 12\text{ km/h}
+   * C) 27\text{ km/h}
+   * D) 3\text{ km/h}
+119. A man rows 28\text{ km} downstream in 4\text{ hours}. Find the downstream speed.
+   * A) 4\text{ km/h}
+   * B) 7\text{ km/h}
+   * C) 24\text{ km/h}
+   * D) 112\text{ km/h}
+120. A man rows 18\text{ km} upstream in 6\text{ hours}. Find the upstream speed.
+   * A) 3\text{ km/h}
+   * B) 6\text{ km/h}
+   * C) 12\text{ km/h}
+   * D) 108\text{ km/h}
+121. What is the downstream speed if a boat goes 35\text{ km} in 5\text{ hours} with the current?
+   * A) 5\text{ km/h}
+   * B) 7\text{ km/h}
+   * C) 30\text{ km/h}
+   * D) 175\text{ km/h}
+122. What is the upstream speed if a boat goes 24\text{ km} in 8\text{ hours} against the current?
+   * A) 3\text{ km/h}
+   * B) 8\text{ km/h}
+   * C) 16\text{ km/h}
+   * D) 192\text{ km/h}
+123. If boat speed in still water is 5\text{ km/h} and stream speed is 2\text{ km/h}, find downstream speed.
+   * A) 3\text{ km/h}
+   * B) 5\text{ km/h}
+   * C) 7\text{ km/h}
+   * D) 10\text{ km/h}
+124. If boat speed in still water is 9\text{ km/h} and stream speed is 4\text{ km/h}, find upstream speed.
+   * A) 4\text{ km/h}
+   * B) 5\text{ km/h}
+   * C) 13\text{ km/h}
+   * D) 36\text{ km/h}
+125. A boat's downstream speed is 16\text{ km/h} and upstream speed is 10\text{ km/h}. Find the boat speed in still water.
+   * A) 6\text{ km/h}
+   * B) 13\text{ km/h}
+   * C) 26\text{ km/h}
+   * D) 160\text{ km/h}
+126. A boat's downstream speed is 20\text{ km/h} and upstream speed is 12\text{ km/h}. Find the stream speed.
+   * A) 4\text{ km/h}
+   * B) 8\text{ km/h}
+   * C) 16\text{ km/h}
+   * D) 32\text{ km/h}
+127. Find the time taken by a boat to travel 30\text{ km} downstream if its downstream speed is 6\text{ km/h}.
+   * A) 5\text{ hours}
+   * B) 6\text{ hours}
+   * C) 24\text{ hours}
+   * D) 180\text{ hours}
+128. Find the time taken by a boat to travel 28\text{ km} upstream if its upstream speed is 7\text{ km/h}.
+   * A) 2\text{ hours}
+   * B) 4\text{ hours}
+   * C) 7\text{ hours}
+   * D) 196\text{ hours}
+129. Find the distance covered downstream in 4\text{ hours} if the downstream speed is 6\text{ km/h}.
+   * A) 10\text{ km}
+   * B) 24\text{ km}
+   * C) 2\text{ km}
+   * D) 28\text{ km}
+130. Find the distance covered upstream in 3\text{ hours} if the upstream speed is 4\text{ km/h}.
+   * A) 7\text{ km}
+   * B) 12\text{ km}
+   * C) 1\text{ km}
+   * D) 15\text{ km}
+131. If downstream speed is 12\text{ km/h} and stream speed is 2\text{ km/h}, find boat speed in still water.
+   * A) 10\text{ km/h}
+   * B) 14\text{ km/h}
+   * C) 24\text{ km/h}
+   * D) 6\text{ km/h}
+132. If upstream speed is 9\text{ km/h} and stream speed is 2\text{ km/h}, find boat speed in still water.
+   * A) 7\text{ km/h}
+   * B) 11\text{ km/h}
+   * C) 18\text{ km/h}
+   * D) 4.5\text{ km/h}
+133. A boat goes 30\text{ km} downstream in 6\text{ hours}. What is its downstream speed?
+   * A) 5\text{ km/h}
+   * B) 6\text{ km/h}
+   * C) 36\text{ km/h}
+   * D) 180\text{ km/h}
+134. A boat goes 24\text{ km} upstream in 6\text{ hours}. What is its upstream speed?
+   * A) 3\text{ km/h}
+   * B) 4\text{ km/h}
+   * C) 18\text{ km/h}
+   * D) 144\text{ km/h}
+135. The speed of a boat in still water is 12\text{ km/h} and the current is 2\text{ km/h}. Find the downstream speed.
+   * A) 10\text{ km/h}
+   * B) 12\text{ km/h}
+   * C) 14\text{ km/h}
+   * D) 24\text{ km/h}
+136. The speed of a boat in still water is 14\text{ km/h} and the current is 4\text{ km/h}. Find the upstream speed.
+   * A) 10\text{ km/h}
+   * B) 14\text{ km/h}
+   * C) 18\text{ km/h}
+   * D) 56\text{ km/h}
+137. If downstream speed is 18\text{ km/h} and upstream speed is 12\text{ km/h}, the boat speed in still water is:
+   * A) 6\text{ km/h}
+   * B) 15\text{ km/h}
+   * C) 30\text{ km/h}
+   * D) 216\text{ km/h}
+138. If downstream speed is 22\text{ km/h} and upstream speed is 14\text{ km/h}, the stream speed is:
+   * A) 4\text{ km/h}
+   * B) 8\text{ km/h}
+   * C) 18\text{ km/h}
+   * D) 36\text{ km/h}
+139. A man rows 40\text{ km} downstream in 8\text{ hours}. Find downstream speed.
+   * A) 5\text{ km/h}
+   * B) 8\text{ km/h}
+   * C) 32\text{ km/h}
+   * D) 320\text{ km/h}
+140. A man rows 12\text{ km} upstream in 3\text{ hours}. Find upstream speed.
+   * A) 3\text{ km/h}
+   * B) 4\text{ km/h}
+   * C) 9\text{ km/h}
+   * D) 36\text{ km/h}
+141. A boat travels 32\text{ km} downstream in 8\text{ hours}. Find the downstream speed.
+   * A) 4\text{ km/h}
+   * B) 8\text{ km/h}
+   * C) 24\text{ km/h}
+   * D) 256\text{ km/h}
+142. A boat travels 18\text{ km} upstream in 9\text{ hours}. Find the upstream speed.
+   * A) 2\text{ km/h}
+   * B) 9\text{ km/h}
+   * C) 27\text{ km/h}
+   * D) 162\text{ km/h}
+143. If boat speed in still water is 13\text{ km/h} and stream speed is 3\text{ km/h}, find downstream speed.
+   * A) 10\text{ km/h}
+   * B) 13\text{ km/h}
+   * C) 16\text{ km/h}
+   * D) 39\text{ km/h}
+144. If boat speed in still water is 15\text{ km/h} and stream speed is 4\text{ km/h}, find upstream speed.
+   * A) 4\text{ km/h}
+   * B) 11\text{ km/h}
+   * C) 19\text{ km/h}
+   * D) 60\text{ km/h}
+145. Downstream speed is 24\text{ km/h} and upstream speed is 14\text{ km/h}. Find boat speed in still water.
+   * A) 5\text{ km/h}
+   * B) 10\text{ km/h}
+   * C) 19\text{ km/h}
+   * D) 38\text{ km/h}
+146. Downstream speed is 26\text{ km/h} and upstream speed is 16\text{ km/h}. Find stream speed.
+   * A) 5\text{ km/h}
+   * B) 10\text{ km/h}
+   * C) 21\text{ km/h}
+   * D) 42\text{ km/h}
+147. A boat goes 42\text{ km} downstream in 7\text{ hours}. Find its downstream speed.
+   * A) 6\text{ km/h}
+   * B) 7\text{ km/h}
+   * C) 35\text{ km/h}
+   * D) 49\text{ km/h}
+148. A boat goes 14\text{ km} upstream in 7\text{ hours}. Find its upstream speed.
+   * A) 2\text{ km/h}
+   * B) 7\text{ km/h}
+   * C) 21\text{ km/h}
+   * D) 98\text{ km/h}
+149. Speed of boat in still water is 9\text{ km/h} and stream is 2\text{ km/h}. Downstream speed is:
+   * A) 7\text{ km/h}
+   * B) 9\text{ km/h}
+   * C) 11\text{ km/h}
+   * D) 18\text{ km/h}
+150. Speed of boat in still water is 10\text{ km/h} and stream is 3\text{ km/h}. Upstream speed is:
+   * A) 3\text{ km/h}
+   * B) 7\text{ km/h}
+   * C) 13\text{ km/h}
+   * D) 30\text{ km/h}
+151. If downstream speed is 14\text{ km/h} and upstream speed is 8\text{ km/h}, boat speed in still water is:
+   * A) 3\text{ km/h}
+   * B) 6\text{ km/h}
+   * C) 11\text{ km/h}
+   * D) 22\text{ km/h}
+152. If downstream speed is 16\text{ km/h} and upstream speed is 10\text{ km/h}, stream speed is:
+   * A) 3\text{ km/h}
+   * B) 6\text{ km/h}
+   * C) 13\text{ km/h}
+   * D) 26\text{ km/h}
+153. A man rows 50\text{ km} downstream in 10\text{ hours}. Downstream speed is:
+   * A) 4\text{ km/h}
+   * B) 5\text{ km/h}
+   * C) 10\text{ km/h}
+   * D) 500\text{ km/h}
+154. A man rows 15\text{ km} upstream in 5\text{ hours}. Upstream speed is:
+   * A) 3\text{ km/h}
+   * B) 5\text{ km/h}
+   * C) 20\text{ km/h}
+   * D) 75\text{ km/h}
+155. Boat speed in still water is 16\text{ km/h} and stream speed is 4\text{ km/h}. Downstream speed is:
+   * A) 12\text{ km/h}
+   * B) 16\text{ km/h}
+   * C) 20\text{ km/h}
+   * D) 64\text{ km/h}
+156. Boat speed in still water is 18\text{ km/h} and stream speed is 5\text{ km/h}. Upstream speed is:
+   * A) 5\text{ km/h}
+   * B) 13\text{ km/h}
+   * C) 23\text{ km/h}
+   * D) 90\text{ km/h}
+157. Downstream speed is 32\text{ km/h} and upstream speed is 22\text{ km/h}. Boat speed in still water is:
+   * A) 5\text{ km/h}
+   * B) 10\text{ km/h}
+   * C) 27\text{ km/h}
+   * D) 54\text{ km/h}
+158. Downstream speed is 27\text{ km/h} and upstream speed is 17\text{ km/h}. Stream speed is:
+   * A) 5\text{ km/h}
+   * B) 10\text{ km/h}
+   * C) 22\text{ km/h}
+   * D) 44\text{ km/h}
+159. A boat travels 40\text{ km} downstream in 8\text{ hours}. Downstream speed is:
+   * A) 5\text{ km/h}
+   * B) 8\text{ km/h}
+   * C) 32\text{ km/h}
+   * D) 320\text{ km/h}
+160. A boat travels 27\text{ km} upstream in 9\text{ hours}. Upstream speed is:
+   * A) 2\text{ km/h}
+   * B) 3\text{ km/h}
+   * C) 9\text{ km/h}
+   * D) 36\text{ km/h}
+161. If boat speed in still water is 8\text{ km/h} and stream is 4\text{ km/h}, downstream speed is:
+   * A) 4\text{ km/h}
+   * B) 8\text{ km/h}
+   * C) 12\text{ km/h}
+   * D) 32\text{ km/h}
+162. If boat speed in still water is 11\text{ km/h} and stream is 4\text{ km/h}, upstream speed is:
+   * A) 4\text{ km/h}
+   * B) 7\text{ km/h}
+   * C) 15\text{ km/h}
+   * D) 44\text{ km/h}
+163. Downstream speed is 21\text{ km/h} and upstream speed is 13\text{ km/h}. Boat speed in still water is:
+   * A) 8\text{ km/h}
+   * B) 17\text{ km/h}
+   * C) 34\text{ km/h}
+   * D) 4\text{ km/h}
+164. Downstream speed is 23\text{ km/h} and upstream speed is 13\text{ km/h}. Stream speed is:
+   * A) 5\text{ km/h}
+   * B) 10\text{ km/h}
+   * C) 18\text{ km/h}
+   * D) 36\text{ km/h}
+165. A man rows 18\text{ km} downstream in 2\text{ hours}. Downstream speed is:
+   * A) 2\text{ km/h}
+   * B) 9\text{ km/h}
+   * C) 16\text{ km/h}
+   * D) 36\text{ km/h}
+166. A man rows 21\text{ km} upstream in 7\text{ hours}. Upstream speed is:
+   * A) 3\text{ km/h}
+   * B) 7\text{ km/h}
+   * C) 14\text{ km/h}
+   * D) 147\text{ km/h}
+167. Boat speed in still water is 19\text{ km/h} and stream speed is 3\text{ km/h}. Downstream speed is:
+   * A) 16\text{ km/h}
+   * B) 19\text{ km/h}
+   * C) 22\text{ km/h}
+   * D) 57\text{ km/h}
+168. Boat speed in still water is 21\text{ km/h} and stream speed is 4\text{ km/h}. Upstream speed is:
+   * A) 4\text{ km/h}
+   * B) 17\text{ km/h}
+   * C) 25\text{ km/h}
+   * D) 84\text{ km/h}
+169. Downstream speed is 30\text{ km/h} and upstream speed is 18\text{ km/h}. Boat speed in still water is:
+   * A) 6\text{ km/h}
+   * B) 12\text{ km/h}
+   * C) 24\text{ km/h}
+   * D) 48\text{ km/h}
+170. Downstream speed is 34\text{ km/h} and upstream speed is 24\text{ km/h}. Stream speed is:
+   * A) 5\text{ km/h}
+   * B) 10\text{ km/h}
+   * C) 29\text{ km/h}
+   * D) 58\text{ km/h}
+171. A boat travels 48\text{ km} downstream in 6\text{ hours}. Downstream speed is:
+   * A) 6\text{ km/h}
+   * B) 8\text{ km/h}
+   * C) 42\text{ km/h}
+   * D) 288\text{ km/h}
+172. A boat travels 35\text{ km} upstream in 7\text{ hours}. Upstream speed is:
+   * A) 5\text{ km/h}
+   * B) 7\text{ km/h}
+   * C) 28\text{ km/h}
+   * D) 245\text{ km/h}
+173. Boat speed in still water is 14\text{ km/h} and stream speed is 2\text{ km/h}. Downstream speed is:
+   * A) 12\text{ km/h}
+   * B) 14\text{ km/h}
+   * C) 16\text{ km/h}
+   * D) 28\text{ km/h}
+174. Boat speed in still water is 17\text{ km/h} and stream speed is 3\text{ km/h}. Upstream speed is:
+   * A) 3\text{ km/h}
+   * B) 14\text{ km/h}
+   * C) 20\text{ km/h}
+   * D) 51\text{ km/h}
+175. Downstream speed is 38\text{ km/h} and upstream speed is 28\text{ km/h}. Boat speed in still water is:
+   * A) 5\text{ km/h}
+   * B) 33\text{ km/h}
+   * C) 66\text{ km/h}
+   * D) 10\text{ km/h}
+176. Downstream speed is 42\text{ km/h} and upstream speed is 22\text{ km/h}. Stream speed is:
+   * A) 10\text{ km/h}
+   * B) 20\text{ km/h}
+   * C) 32\text{ km/h}
+   * D) 64\text{ km/h}
+177. A man rows 48\text{ km} downstream in 6\text{ hours}. Downstream speed is:
+   * A) 6\text{ km/h}
+   * B) 8\text{ km/h}
+   * C) 42\text{ km/h}
+   * D) 288\text{ km/h}
+178. A man rows 25\text{ km} upstream in 5\text{ hours}. Upstream speed is:
+   * A) 5\text{ km/h}
+   * B) 20\text{ km/h}
+   * C) 30\text{ km/h}
+   * D) 125\text{ km/h}
+179. Boat speed in still water is 24\text{ km/h} and stream speed is 4\text{ km/h}. Downstream speed is:
+   * A) 20\text{ km/h}
+   * B) 24\text{ km/h}
+   * C) 28\text{ km/h}
+   * D) 96\text{ km/h}
+180. Boat speed in still water is 28\text{ km/h} and stream speed is 6\text{ km/h}. Upstream speed is:
+   * A) 6\text{ km/h}
+   * B) 22\text{ km/h}
+   * C) 34\text{ km/h}
+   * D) 168\text{ km/h}
+181. Downstream speed is 48\text{ km/h} and upstream speed is 38\text{ km/h}. Boat speed in still water is:
+   * A) 5\text{ km/h}
+   * B) 43\text{ km/h}
+   * C) 86\text{ km/h}
+   * D) 10\text{ km/h}
+182. Downstream speed is 52\text{ km/h} and upstream speed is 32\text{ km/h}. Stream speed is:
+   * A) 10\text{ km/h}
+   * B) 20\text{ km/h}
+   * C) 42\text{ km/h}
+   * D) 84\text{ km/h}
+183. A boat travels 70\text{ km} downstream in 7\text{ hours}. Downstream speed is:
+   * A) 7\text{ km/h}
+   * B) 10\text{ km/h}
+   * C) 63\text{ km/h}
+   * D) 490\text{ km/h}
+184. A boat travels 40\text{ km} upstream in 8\text{ hours}. Upstream speed is:
+   * A) 4\text{ km/h}
+   * B) 5\text{ km/h}
+   * C) 8\text{ km/h}
+   * D) 320\text{ km/h}
+185. Boat speed in still water is 32\text{ km/h} and stream speed is 6\text{ km/h}. Downstream speed is:
+   * A) 26\text{ km/h}
+   * B) 32\text{ km/h}
+   * C) 38\text{ km/h}
+   * D) 192\text{ km/h}
+186. Boat speed in still water is 36\text{ km/h} and stream speed is 6\text{ km/h}. Upstream speed is:
+   * A) 6\text{ km/h}
+   * B) 30\text{ km/h}
+   * C) 42\text{ km/h}
+   * D) 216\text{ km/h}
+187. Downstream speed is 58\text{ km/h} and upstream speed is 48\text{ km/h}. Boat speed in still water is:
+   * A) 5\text{ km/h}
+   * B) 53\text{ km/h}
+   * C) 106\text{ km/h}
+   * D) 10\text{ km/h}
+188. Downstream speed is 62\text{ km/h} and upstream speed is 42\text{ km/h}. Stream speed is:
+   * A) 10\text{ km/h}
+   * B) 20\text{ km/h}
+   * C) 52\text{ km/h}
+   * D) 104\text{ km/h}
+189. A man rows 80\text{ km} downstream in 8\text{ hours}. Downstream speed is:
+   * A) 8\text{ km/h}
+   * B) 10\text{ km/h}
+   * C) 72\text{ km/h}
+   * D) 640\text{ km/h}
+190. A man rows 32\text{ km} upstream in 8\text{ hours}. Upstream speed is:
+   * A) 2\text{ km/h}
+   * B) 4\text{ km/h}
+   * C) 8\text{ km/h}
+   * D) 256\text{ km/h}
+191. Boat speed in still water is 42\text{ km/h} and stream speed is 8\text{ km/h}. Downstream speed is:
+   * A) 34\text{ km/h}
+   * B) 42\text{ km/h}
+   * C) 50\text{ km/h}
+   * D) 336\text{ km/h}
+192. Boat speed in still water is 48\text{ km/h} and stream speed is 8\text{ km/h}. Upstream speed is:
+   * A) 8\text{ km/h}
+   * B) 40\text{ km/h}
+   * C) 56\text{ km/h}
+   * D) 384\text{ km/h}
+193. Downstream speed is 72\text{ km/h} and upstream speed is 52\text{ km/h}. Boat speed in still water is:
+   * A) 10\text{ km/h}
+   * B) 62\text{ km/h}
+   * C) 124\text{ km/h}
+   * D) 20\text{ km/h}
+194. Downstream speed is 75\text{ km/h} and upstream speed is 55\text{ km/h}. Stream speed is:
+   * A) 10\text{ km/h}
+   * B) 20\text{ km/h}
+   * C) 65\text{ km/h}
+   * D) 130\text{ km/h}
+195. A boat travels 90\text{ km} downstream in 9\text{ hours}. Downstream speed is:
+   * A) 9\text{ km/h}
+   * B) 10\text{ km/h}
+   * C) 81\text{ km/h}
+   * D) 810\text{ km/h}
+196. A boat travels 50\text{ km} upstream in 10\text{ hours}. Upstream speed is:
+   * A) 4\text{ km/h}
+   * B) 5\text{ km/h}
+   * C) 10\text{ km/h}
+   * D) 500\text{ km/h}
+197. Boat speed in still water is 55\text{ km/h} and stream speed is 5\text{ km/h}. Downstream speed is:
+   * A) 50\text{ km/h}
+   * B) 55\text{ km/h}
+   * C) 60\text{ km/h}
+   * D) 275\text{ km/h}
+198. Boat speed in still water is 65\text{ km/h} and stream speed is 5\text{ km/h}. Upstream speed is:
+   * A) 5\text{ km/h}
+   * B) 60\text{ km/h}
+   * C) 70\text{ km/h}
+   * D) 325\text{ km/h}
+199. Downstream speed is 95\text{ km/h} and upstream speed is 75\text{ km/h}. Boat speed in still water is:
+   * A) 10\text{ km/h}
+   * B) 85\text{ km/h}
+   * C) 170\text{ km/h}
+   * D) 20\text{ km/h}
+200. Downstream speed is 110\text{ km/h} and upstream speed is 90\text{ km/h}. Stream speed is:
+   * A) 10\text{ km/h}
+   * B) 20\text{ km/h}
+   * C) 100\text{ km/h}
+   * D) 200\text{ km/h}
